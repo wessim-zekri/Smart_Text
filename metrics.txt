@@ -1,0 +1,43 @@
+Using best training accuracy of each trained model
+
+--------------------------------------------------------------------------------
+
+TPS-ResNet-BiLSTM-Attn-Seed1111/best_accuracy.pth
+
+Accuracy: 73.744
+Precision: 0.956
+Recall: 0.737
+F1 Score: 0.748
+Loss: 0.920
+Normalized Edit Distance: 0.860
+--------------------------------------------------------------------------------
+
+TPS-ResNet-BiLSTM-Attn-Seed128/best_accuracy71.87.pth
+
+Accuracy: 71.697
+Precision: 0.947
+Recall: 0.717
+F1 Score: 0.730
+Loss: 0.866
+Normalized Edit Distance: 0.849
+--------------------------------------------------------------------------------
+
+Test : TPS-ResNet-BiLSTM-Attn-Seed128-35/best_accuracy74.20.pth
+
+Accuracy: 73.760
+Precision: 0.956
+Recall: 0.738
+F1 Score: 0.749
+Loss: 1.048
+Normalized Edit Distance: 0.862
+--------------------------------------------------------------------------------
+
+Test : TPS-ResNet-BiLSTM-Attn-Seed192-50/best_accuracy75.71.pth
+
+Accuracy: 75.135
+Precision: 0.960
+Recall: 0.751
+F1 Score: 0.763
+Loss: 1.177
+Normalized Edit Distance: 0.877
+--------------------------------------------------------------------------------

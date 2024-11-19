@@ -1,0 +1,1526 @@
+Frame 421 - STR Text: p (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00)
+Frame 451 - STR Text: سك (Confidence: 0.82), PaddleOCR Text:  (Confidence: 0.00)
+Frame 481 - STR Text: سع (Confidence: 0.80), PaddleOCR Text:  (Confidence: 0.00)
+Frame 631 - STR Text: سو (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00)
+Frame 661 - STR Text: سو (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00)
+Frame 841 - STR Text: س (Confidence: 1.00), PaddleOCR Text: 7 (Confidence: 0.57)
+Frame 991 - STR Text: سد (Confidence: 0.29), PaddleOCR Text: L (Confidence: 0.62)
+Frame 241 - STR Text: بن (Confidence: 0.87), PaddleOCR Text: ‮ ا (Confidence: 0.62)
+Frame 271 - STR Text: سرك (Confidence: 0.23), PaddleOCR Text: ‮ ساص (Confidence: 0.58)
+Frame 301 - STR Text: سن (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00)
+Frame 331 - STR Text: سبك (Confidence: 0.33), PaddleOCR Text: ‮ سل (Confidence: 0.51)
+Frame 361 - STR Text: い (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00)
+Frame 361 - STR Text: د (Confidence: 0.74), PaddleOCR Text:  (Confidence: 0.00)
+Frame 391 - STR Text: سند (Confidence: 0.21), PaddleOCR Text: 3K (Confidence: 0.72)
+Frame 421 - STR Text: سد (Confidence: 0.34), PaddleOCR Text: mK (Confidence: 0.63)
+Frame 1 - STR Text: و (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00)
+Frame 31 - STR Text: un (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00)
+Frame 31 - STR Text: a (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00)
+Frame 181 - STR Text: a (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: con (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: س (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: a (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00)
+Frame 241 - STR Text: un (Confidence: 0.85), PaddleOCR Text:  (Confidence: 0.00)
+Frame 241 - STR Text: a (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00)
+Frame 271 - STR Text: a (Confidence: 0.89), PaddleOCR Text:  (Confidence: 0.00)
+Frame 331 - STR Text: li (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1081 - STR Text: عبيل (Confidence: 0.14), PaddleOCR Text: ‮ااك (Confidence: 0.61)
+Frame 1111 - STR Text: للقيدى (Confidence: 0.14), PaddleOCR Text: ‮لكك (Confidence: 0.70)
+Frame 1111 - STR Text: م (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1111 - STR Text: عمد (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1141 - STR Text: شحنك (Confidence: 0.18), PaddleOCR Text: ‮كك (Confidence: 0.91)
+Frame 1141 - STR Text: words (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1141 - STR Text: iovcanlern (Confidence: 0.17), PaddleOCR Text: Can Lear (Confidence: 0.92)
+Frame 1141 - STR Text: mondly (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1171 - STR Text: lo (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1201 - STR Text: مد (Confidence: 0.44), PaddleOCR Text: ‮نعم (Confidence: 1.00)
+Frame 1201 - STR Text: wordi (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1981 - STR Text: n (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2041 - STR Text: r (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2041 - STR Text: بن (Confidence: 0.74), PaddleOCR Text: ‮ت (Confidence: 0.54)
+Frame 2071 - STR Text: r (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2071 - STR Text: 9oogle (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2071 - STR Text: rombearche (Confidence: 0.18), PaddleOCR Text: m/search? (Confidence: 0.92)
+Frame 2131 - STR Text: بن (Confidence: 0.89), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2131 - STR Text: holo (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2161 - STR Text: حي (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2341 - STR Text: unknown (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2341 - STR Text: hubb (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2401 - STR Text: بن (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2461 - STR Text: بن (Confidence: 0.82), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2491 - STR Text: hudo (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2521 - STR Text: 900gie (Confidence: 0.76), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2521 - STR Text: som (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2521 - STR Text: searchte (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2551 - STR Text: دب (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2701 - STR Text: بن (Confidence: 0.86), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2731 - STR Text: unknown (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2821 - STR Text: بن (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2851 - STR Text: * (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2851 - STR Text: hubb (Confidence: 1.00), PaddleOCR Text: Hubb (Confidence: 0.99)
+Frame 2881 - STR Text: hubb (Confidence: 1.00), PaddleOCR Text: Hubb (Confidence: 0.91)
+Frame 2911 - STR Text: unknown (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2941 - STR Text: u (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3001 - STR Text: بن (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3031 - STR Text: بن (Confidence: 0.33), PaddleOCR Text: ‮و (Confidence: 0.58)
+Frame 3061 - STR Text: u (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3091 - STR Text: u (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3121 - STR Text: hubb (Confidence: 1.00), PaddleOCR Text: qqnH (Confidence: 0.67)
+Frame 3151 - STR Text: بنب (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3181 - STR Text: un (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00)
+Frame 4201 - STR Text: رو (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 4231 - STR Text: و (Confidence: 0.89), PaddleOCR Text:  (Confidence: 0.00)
+Frame 4261 - STR Text: 9 (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00)
+Frame 4291 - STR Text: 9 (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00)
+Frame 4441 - STR Text: 9 (Confidence: 0.78), PaddleOCR Text:  (Confidence: 0.00)
+Frame 4471 - STR Text: 99 (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00)
+Frame 4501 - STR Text: c (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00)
+Frame 5551 - STR Text: . (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00)
+Frame 5551 - STR Text: orig (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00)
+Frame 5581 - STR Text: fruits (Confidence: 1.00), PaddleOCR Text: Fruits (Confidence: 1.00)
+Frame 5581 - STR Text: للكته (Confidence: 0.23), PaddleOCR Text: ‮الفاكه  (Confidence: 0.95)
+Frame 5581 - STR Text: i (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 5581 - STR Text: مور (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00)
+Frame 5581 - STR Text: mawz (Confidence: 1.00), PaddleOCR Text: Mawz (Confidence: 0.99)
+Frame 5581 - STR Text: anana (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00)
+Frame 5581 - STR Text: تغلق (Confidence: 0.23), PaddleOCR Text: ‮تفا (Confidence: 0.82)
+Frame 5581 - STR Text: pple (Confidence: 1.00), PaddleOCR Text: Apple (Confidence: 0.93)
+Frame 5581 - STR Text: toufah (Confidence: 1.00), PaddleOCR Text: Toufah (Confidence: 0.93)
+Frame 5581 - STR Text: karaz (Confidence: 1.00), PaddleOCR Text: Karaz (Confidence: 0.99)
+Frame 5581 - STR Text: كر (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 5581 - STR Text: hertries (Confidence: 0.42), PaddleOCR Text: herries (Confidence: 0.97)
+Frame 5581 - STR Text: batikh (Confidence: 1.00), PaddleOCR Text: Batikh (Confidence: 0.99)
+Frame 5581 - STR Text: جميع (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00)
+Frame 5581 - STR Text: bourtoukal (Confidence: 1.00), PaddleOCR Text: Bourtouka (Confidence: 0.98)
+Frame 5581 - STR Text: بركل (Confidence: 0.92), PaddleOCR Text: ‮برتقال (Confidence: 0.80)
+Frame 5581 - STR Text: crange (Confidence: 0.67), PaddleOCR Text: range (Confidence: 1.00)
+Frame 5581 - STR Text: lias (Confidence: 0.99), PaddleOCR Text: ljas (Confidence: 0.72)
+Frame 5581 - STR Text: أمش (Confidence: 0.58), PaddleOCR Text: ‮  (Confidence: 0.71)
+Frame 5581 - STR Text: pear (Confidence: 1.00), PaddleOCR Text: Pear (Confidence: 0.94)
+Frame 5581 - STR Text: ineb (Confidence: 1.00), PaddleOCR Text: ineb (Confidence: 0.99)
+Frame 5581 - STR Text: عنب (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 5581 - STR Text: srape (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6541 - STR Text: poui (Confidence: 0.68), PaddleOCR Text: VRB (Confidence: 0.99)
+Frame 6571 - STR Text: vrb! (Confidence: 0.97), PaddleOCR Text: VRB (Confidence: 1.00)
+Frame 6601 - STR Text: vrb: (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6631 - STR Text: vrb (Confidence: 1.00), PaddleOCR Text: VRB (Confidence: 0.99)
+Frame 6631 - STR Text: 019029 (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6631 - STR Text: 52? (Confidence: 0.74), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6631 - STR Text: h (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6631 - STR Text: 30.0061 (Confidence: 0.72), PaddleOCR Text: 30.006 (Confidence: 1.00)
+Frame 6631 - STR Text: 6.585 (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6631 - STR Text: 0n (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6631 - STR Text: e (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6631 - STR Text: de (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6721 - STR Text: vrb (Confidence: 1.00), PaddleOCR Text: VRB (Confidence: 0.99)
+Frame 6751 - STR Text: o (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6751 - STR Text: c (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6781 - STR Text: vrb (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6781 - STR Text: b (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6781 - STR Text: hi (Confidence: 0.86), PaddleOCR Text:  (Confidence: 0.00)
+Frame 6781 - STR Text: 3 (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00)
+Frame 12121 - STR Text: d (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 12781 - STR Text: gedichte (Confidence: 1.00), PaddleOCR Text: GEDICHTE (Confidence: 0.99)
+Frame 12781 - STR Text: poems (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 12781 - STR Text: 6 (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00)
+Frame 12811 - STR Text: gedichte (Confidence: 1.00), PaddleOCR Text: GEDICHTE (Confidence: 1.00)
+Frame 12811 - STR Text: poems (Confidence: 1.00), PaddleOCR Text: POEMS (Confidence: 1.00)
+Frame 12811 - STR Text: 6 (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1 - STR Text: nayor (Confidence: 0.97), PaddleOCR Text: NELYOR (Confidence: 0.92)
+Frame 31 - STR Text: york (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 31 - STR Text: new (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 61 - STR Text: newydrk (Confidence: 0.99), PaddleOCR Text: NEW YDRK (Confidence: 0.86)
+Frame 91 - STR Text: newydrk (Confidence: 0.88), PaddleOCR Text: NEW YDRK (Confidence: 0.80)
+Frame 121 - STR Text: newyork (Confidence: 1.00), PaddleOCR Text: NEW YORK (Confidence: 0.93)
+Frame 151 - STR Text: vewyork (Confidence: 0.95), PaddleOCR Text: NEW YORK (Confidence: 0.86)
+Frame 181 - STR Text: vewyork (Confidence: 1.00), PaddleOCR Text: VEW YORK (Confidence: 0.90)
+Frame 211 - STR Text: newyork (Confidence: 0.99), PaddleOCR Text: NEWYORK (Confidence: 0.92)
+Frame 241 - STR Text: newyork (Confidence: 0.93), PaddleOCR Text: NEW YORK (Confidence: 0.87)
+Frame 271 - STR Text: novobit (Confidence: 1.00), PaddleOCR Text: novobit (Confidence: 0.99)
+Frame 271 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00)
+Frame 271 - STR Text: iavwokk (Confidence: 0.14), PaddleOCR Text: FWYORY (Confidence: 0.84)
+Frame 301 - STR Text: novobit (Confidence: 1.00), PaddleOCR Text: novobit (Confidence: 0.99)
+Frame 301 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00)
+Frame 301 - STR Text: iawyok (Confidence: 0.42), PaddleOCR Text: 5V (Confidence: 0.68)
+Frame 331 - STR Text: novobit (Confidence: 1.00), PaddleOCR Text: snovobit (Confidence: 0.91)
+Frame 331 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 0.94)
+Frame 331 - STR Text: newyor (Confidence: 0.95), PaddleOCR Text: EWYORK (Confidence: 0.84)
+Frame 361 - STR Text: novobit (Confidence: 1.00), PaddleOCR Text: novobit (Confidence: 0.97)
+Frame 361 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00)
+Frame 361 - STR Text: newyon (Confidence: 0.68), PaddleOCR Text: NFWYOR (Confidence: 0.79)
+Frame 391 - STR Text: newyox (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00)
+Frame 421 - STR Text: ovobit (Confidence: 1.00), PaddleOCR Text: ovobit (Confidence: 0.99)
+Frame 421 - STR Text: r (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 421 - STR Text: get (Confidence: 1.00), PaddleOCR Text: Get (Confidence: 1.00)
+Frame 421 - STR Text: ins (Confidence: 1.00), PaddleOCR Text: Ins (Confidence: 0.75)
+Frame 451 - STR Text: novobit (Confidence: 1.00), PaddleOCR Text: novobit (Confidence: 1.00)
+Frame 451 - STR Text: get (Confidence: 1.00), PaddleOCR Text: Get (Confidence: 1.00)
+Frame 451 - STR Text: ins (Confidence: 1.00), PaddleOCR Text: Ins (Confidence: 0.74)
+Frame 481 - STR Text: novobit (Confidence: 1.00), PaddleOCR Text: novobi (Confidence: 0.92)
+Frame 481 - STR Text: get (Confidence: 1.00), PaddleOCR Text: Get (Confidence: 1.00)
+Frame 481 - STR Text: ins (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 481 - STR Text: di (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 481 - STR Text: red (Confidence: 0.97), PaddleOCR Text: e (Confidence: 0.52)
+Frame 511 - STR Text: ins (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 511 - STR Text: di (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 511 - STR Text: red (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 511 - STR Text: newyork (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00)
+Frame 541 - STR Text: newynry (Confidence: 0.94), PaddleOCR Text: IEWYOD (Confidence: 0.67)
+Frame 571 - STR Text: newyork (Confidence: 0.98), PaddleOCR Text: NEWYORK (Confidence: 0.99)
+Frame 601 - STR Text: newyork (Confidence: 0.87), PaddleOCR Text: NEWYORK (Confidence: 0.98)
+Frame 631 - STR Text: newyork (Confidence: 0.87), PaddleOCR Text: 5W (Confidence: 0.67)
+Frame 661 - STR Text: newyory (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00)
+Frame 691 - STR Text: newyory (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00)
+Frame 721 - STR Text: newyork (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00)
+Frame 751 - STR Text: newyo (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00)
+Frame 811 - STR Text: vet (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00)
+Frame 841 - STR Text: vet (Confidence: 0.84), PaddleOCR Text:  (Confidence: 0.00)
+Frame 871 - STR Text: vet (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00)
+Frame 901 - STR Text: vet (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: min (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: ird (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: dis (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: di (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: deo (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: doli (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: die (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: crivis (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: bite (Confidence: 0.80), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: di (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: bisr (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: brsionrn (Confidence: 0.82), PaddleOCR Text: eslosen (Confidence: 0.60)
+Frame 1921 - STR Text: bersen (Confidence: 0.94), PaddleOCR Text: bersen (Confidence: 0.95)
+Frame 1921 - STR Text: brriorin (Confidence: 0.99), PaddleOCR Text: berlorn (Confidence: 0.80)
+Frame 1921 - STR Text: tor (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: dae (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: slustelin (Confidence: 0.45), PaddleOCR Text: siussciin (Confidence: 0.84)
+Frame 1921 - STR Text: orh (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: immer (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1921 - STR Text: datinne (Confidence: 1.00), PaddleOCR Text: batunne (Confidence: 0.71)
+Frame 2101 - STR Text: newyor (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2131 - STR Text: vewyo (Confidence: 0.76), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2161 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2191 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 2221 - STR Text: ve (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3241 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3271 - STR Text: c (Confidence: 0.76), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3331 - STR Text: 5.9.0 (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3331 - STR Text: cens (Confidence: 0.50), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3331 - STR Text: m (Confidence: 0.86), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3331 - STR Text: pari (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3331 - STR Text: tolciack (Confidence: 0.51), PaddleOCR Text: exbesa (Confidence: 0.58)
+Frame 3331 - STR Text: code (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3331 - STR Text: path (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3331 - STR Text: ge (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3331 - STR Text: lan (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3331 - STR Text: caal (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: 5.9.0 (Confidence: 1.00), PaddleOCR Text: 5.9.0 (Confidence: 0.91)
+Frame 3361 - STR Text: lod (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: 36 (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: o (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: .0 (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: tenseadex (Confidence: 0.22), PaddleOCR Text: Tesseac (Confidence: 0.83)
+Frame 3361 - STR Text: pah (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: diet (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: the (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: si (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: cade (Confidence: 0.86), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: set (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: path (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: mocr (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3361 - STR Text: cald (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3391 - STR Text: & (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3391 - STR Text: caus (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3391 - STR Text: cnall (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3391 - STR Text: beled (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3391 - STR Text: tart (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3391 - STR Text: dio (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3391 - STR Text: sir (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3421 - STR Text: ocr (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3421 - STR Text: || (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3451 - STR Text: ocr: (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3451 - STR Text: del (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3451 - STR Text: fime (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3451 - STR Text: erthr (Confidence: 0.25), PaddleOCR Text: FosteeR (Confidence: 0.63)
+Frame 3451 - STR Text: wadnck (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: ocr (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: peal (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: heho (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: dateolion (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: al (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: (st'ats) (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: intadne (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: cy (Confidence: 0.61), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: den (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: e (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: ili (Confidence: 0.72), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: coal' (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: old (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: po (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3481 - STR Text: tor (Confidence: 0.50), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: sun (Confidence: 0.82), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: topule. (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: de (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: da (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: c (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: di (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: mono.e (Confidence: 0.43), PaddleOCR Text: mbwa (Confidence: 0.55)
+Frame 3511 - STR Text: c.2 (Confidence: 0.58), PaddleOCR Text: Cett (Confidence: 0.75)
+Frame 3511 - STR Text: de (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: eleye (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: des (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: lain (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: auez (Confidence: 0.85), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: la (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: miblo (Confidence: 0.16), PaddleOCR Text: nilliers (Confidence: 0.82)
+Frame 3511 - STR Text: pa (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: de (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: de (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: ta (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: tic (Confidence: 0.78), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: swive (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: ocr (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: litti (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: lps (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: agnie (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: pe (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: n (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: x (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 3511 - STR Text: be (Confidence: 0.86), PaddleOCR Text:  (Confidence: 0.00)
+Frame 4021 - STR Text: nelvyory (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00)
+Frame 4051 - STR Text: newyork (Confidence: 0.99), PaddleOCR Text: NEWYORK (Confidence: 0.98)
+Frame 91 - STR Text: virk (Confidence: 0.78), PaddleOCR Text:  (Confidence: 0.00)
+Frame 121 - STR Text: newviny (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00)
+Frame 151 - STR Text: newyurk (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 181 - STR Text: com (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00)
+Frame 181 - STR Text: - (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: nisanci (Confidence: 0.05), PaddleOCR Text: X (Confidence: 0.53)
+Frame 211 - STR Text: woips (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: aradic (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: ational (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: tattoo (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: alach (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: 0700 (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00)
+Frame 211 - STR Text: noot (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00)
+Frame 241 - STR Text: y (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 241 - STR Text: lov (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00)
+Frame 601 - STR Text: حلب (Confidence: 0.86), PaddleOCR Text:  (Confidence: 0.00)
+Frame 691 - STR Text: googie (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00)
+Frame 691 - STR Text: comfsearcho (Confidence: 0.32), PaddleOCR Text: om/search? (Confidence: 0.99)
+Frame 691 - STR Text: r (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00)
+Frame 691 - STR Text: حلم (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00)
+Frame 721 - STR Text: حل (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00)
+Frame 751 - STR Text: حل (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00)
+Frame 781 - STR Text: حلك (Confidence: 0.60), PaddleOCR Text:  (Confidence: 0.00)
+Frame 811 - STR Text: حل (Confidence: 0.83), PaddleOCR Text:  (Confidence: 0.00)
+Frame 991 - STR Text: m (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1021 - STR Text: حلب (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1051 - STR Text: حلب (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1051 - STR Text: le (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1081 - STR Text: h (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1171 - STR Text: acw (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1201 - STR Text: c (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1651 - STR Text: dlo (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1651 - STR Text: nypk (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1681 - STR Text: rauchen (Confidence: 1.00), PaddleOCR Text: Rauchen (Confidence: 0.99)
+Frame 1681 - STR Text: verursack (Confidence: 0.79), PaddleOCR Text: rerursach (Confidence: 0.96)
+Frame 1681 - STR Text: schlaganfalle (Confidence: 1.00), PaddleOCR Text: Schlaganfalle (Confidence: 0.96)
+Frame 1681 - STR Text: und (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1681 - STR Text: behinderungen (Confidence: 0.98), PaddleOCR Text: Behinderungen (Confidence: 0.99)
+Frame 1681 - STR Text: otblo (Confidence: 0.32), PaddleOCR Text: UEBLO (Confidence: 0.87)
+Frame 1681 - STR Text: ov (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1711 - STR Text: rauchen (Confidence: 1.00), PaddleOCR Text: Rauchen (Confidence: 1.00)
+Frame 1711 - STR Text: verursach (Confidence: 1.00), PaddleOCR Text: verursach (Confidence: 0.99)
+Frame 1711 - STR Text: schlaganfalle (Confidence: 0.90), PaddleOCR Text: Schlaganfälle (Confidence: 0.94)
+Frame 1711 - STR Text: und (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1711 - STR Text: behinderungen (Confidence: 1.00), PaddleOCR Text: Behinderungen (Confidence: 1.00)
+Frame 1711 - STR Text: of (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00)
+Frame 31 - STR Text: newyurk (Confidence: 1.00), PaddleOCR Text: VEWYORK (Confidence: 0.94)
+Frame 91 - STR Text: yurk (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00)
+Frame 91 - STR Text: nevy (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00)
+Frame 1 - STR Text: f0中 (Confidence: 0.23), PaddleOCR Text: faaR (Confidence: 0.59), Translation: far
+Frame 31 - STR Text: f0নব (Confidence: 0.11), PaddleOCR Text: दवर (Confidence: 0.81), Translation: FEogt दवर
+Frame 61 - STR Text: tusinaty (Confidence: 0.37), PaddleOCR Text:  (Confidence: 0.00), Translation: Quatorzième
+Frame 91 - STR Text: turira (Confidence: 0.44), PaddleOCR Text:  (Confidence: 0.00), Translation: FEOGT H
+Frame 121 - STR Text: 中 (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: Milieu
+Frame 151 - STR Text: di (Confidence: 0.72), PaddleOCR Text:  (Confidence: 0.00), Translation: dl di
+Frame 451 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Nassim (Confidence: 0.93), Translation: Wassim
+Frame 481 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 511 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 541 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 571 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 601 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 631 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 661 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 931 - STR Text: reokiofe (Confidence: 0.16), PaddleOCR Text: 3 (Confidence: 0.66), Translation: 3
+Frame 61 - STR Text: pajama (Confidence: 0.94), PaddleOCR Text: pajama (Confidence: 0.98), Translation: pyjama
+Frame 91 - STR Text: doiar (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: doiar
+Frame 1 - STR Text: behinderungen (Confidence: 0.99), PaddleOCR Text: Behinderungen (Confidence: 0.99), Translation: handicaps d'attaque cérébrale
+Frame 31 - STR Text: bchinderungen (Confidence: 0.64), PaddleOCR Text: Behinderungen (Confidence: 0.99), Translation: et des handicaps
+Frame 61 - STR Text: pulblo (Confidence: 1.00), PaddleOCR Text: PUEBLO (Confidence: 0.96), Translation: pulblo
+Frame 91 - STR Text: pucblo (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: peuple
+Frame 121 - STR Text: pueblo (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: ville
+Frame 151 - STR Text: pueblo (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: ville
+Frame 211 - STR Text: nv (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00), Translation: nv
+Frame 241 - STR Text: di (Confidence: 1.00), PaddleOCR Text: pI (Confidence: 0.66), Translation: Entrer dedans
+Frame 271 - STR Text: red (Confidence: 1.00), PaddleOCR Text: red (Confidence: 0.96), Translation: rouge
+Frame 301 - STR Text: d (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: d
+Frame 331 - STR Text: d (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: d
+Frame 571 - STR Text: ove (Confidence: 0.32), PaddleOCR Text:  (Confidence: 0.00), Translation: œuf
+Frame 601 - STR Text: yiprk (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: yiprk
+Frame 631 - STR Text: wytok (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: Procès
+Frame 721 - STR Text: ok (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: ok
+Frame 751 - STR Text: vioy (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: jeu
+Frame 781 - STR Text: neiyuprk (Confidence: 0.24), PaddleOCR Text: VEW YJRK (Confidence: 0.80), Translation: "VEW YJRK"
+Frame 961 - STR Text: nsidy (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: insidie
+Frame 991 - STR Text: v (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 1201 - STR Text: nsidy (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: insidie
+Frame 1591 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 1621 - STR Text: dv (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: dv
+Frame 1651 - STR Text: vis (Confidence: 0.40), PaddleOCR Text:  (Confidence: 0.00), Translation: Œuf
+Frame 1711 - STR Text: || (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: ||
+Frame 1801 - STR Text: || (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: ||
+Frame 1951 - STR Text: r (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00), Translation: r
+Frame 1981 - STR Text: di (Confidence: 0.82), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 2011 - STR Text: n (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: n
+Frame 2041 - STR Text: di (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 2131 - STR Text: di (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 2191 - STR Text: di (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 2251 - STR Text: dis (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00), Translation: dé
+Frame 2281 - STR Text: di (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 2401 - STR Text: || (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00), Translation: ||
+Frame 2431 - STR Text: good (Confidence: 0.29), PaddleOCR Text:  (Confidence: 0.00), Translation: Fils
+Frame 2491 - STR Text: love (Confidence: 0.78), PaddleOCR Text: OVE (Confidence: 0.92), Translation: OVE
+Frame 2521 - STR Text: hubb (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: hub
+Frame 2551 - STR Text: love (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: amour
+Frame 2581 - STR Text: leg (Confidence: 0.25), PaddleOCR Text:  (Confidence: 0.00), Translation: Fils
+Frame 2701 - STR Text: 2 (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: 2
+Frame 2731 - STR Text: dey (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: ils
+Frame 2761 - STR Text: skda (Confidence: 0.12), PaddleOCR Text:  (Confidence: 0.00), Translation: dv
+Frame 2791 - STR Text: alvendy (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00), Translation: Déjà
+Frame 1 - STR Text: newvrok (Confidence: 0.10), PaddleOCR Text: ICWYTOY (Confidence: 0.72), Translation: Je vois ce que vous faites
+Frame 31 - STR Text: dv (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: dv
+Frame 61 - STR Text: - (Confidence: 0.76), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 91 - STR Text: - (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 121 - STR Text: ncov (Confidence: 0.83), PaddleOCR Text:  (Confidence: 0.00), Translation: Covid-19
+Frame 151 - STR Text: دمش (Confidence: 0.48), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 181 - STR Text: wivridy (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00), Translation: wivridy
+Frame 661 - STR Text: viov (Confidence: 0.38), PaddleOCR Text:  (Confidence: 0.00), Translation: Wassim
+Frame 691 - STR Text: medy (Confidence: 0.30), PaddleOCR Text:  (Confidence: 0.00), Translation: Wassim
+Frame 721 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 751 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 781 - STR Text: wwen (Confidence: 0.46), PaddleOCR Text:  (Confidence: 0.00), Translation: Wassim
+Frame 811 - STR Text: wien (Confidence: 0.32), PaddleOCR Text:  (Confidence: 0.00), Translation: Wassim
+Frame 841 - STR Text: cerdi (Confidence: 0.08), PaddleOCR Text:  (Confidence: 0.00), Translation: Wassim
+Frame 871 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 0.98), Translation: Wassim
+Frame 1051 - STR Text: ovobit (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: œuf
+Frame 1081 - STR Text: fri (Confidence: 0.15), PaddleOCR Text:  (Confidence: 0.00), Translation: SSIM
+Frame 1111 - STR Text: ssim (Confidence: 0.99), PaddleOCR Text: ssim (Confidence: 0.70), Translation: SSIM
+Frame 1141 - STR Text: seim (Confidence: 0.38), PaddleOCR Text:  (Confidence: 0.00), Translation: inobit
+Frame 1171 - STR Text: liassin (Confidence: 0.74), PaddleOCR Text:  (Confidence: 0.00), Translation: Liasse
+Frame 1201 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 1231 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 1261 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 1291 - STR Text: iviok (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: ici
+Frame 1411 - STR Text: lvin (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: loup
+Frame 1591 - STR Text: に (Confidence: 0.35), PaddleOCR Text:  (Confidence: 0.00), Translation: ovobit
+Frame 1621 - STR Text: novobit (Confidence: 0.99), PaddleOCR Text: ovobit (Confidence: 0.98), Translation: Nouveau bit
+Frame 1651 - STR Text: novobit (Confidence: 1.00), PaddleOCR Text: ovobit (Confidence: 0.98), Translation: Nouveau bit
+Frame 1681 - STR Text: dovobit (Confidence: 0.99), PaddleOCR Text: snovobit (Confidence: 0.92), Translation: dovobit
+Frame 1741 - STR Text: wiov (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: wiov
+Frame 1771 - STR Text: wiov (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: wiov
+Frame 1801 - STR Text: viov (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: vivre
+Frame 1861 - STR Text: widv (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00), Translation: veuve
+Frame 2041 - STR Text: fect (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00), Translation: pieds
+Frame 2071 - STR Text: af (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 2101 - STR Text: frigi (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00), Translation: frigo
+Frame 2131 - STR Text: frigi (Confidence: 0.87), PaddleOCR Text: 5 (Confidence: 0.52), Translation: frigo
+Frame 2161 - STR Text: frigi (Confidence: 0.64), PaddleOCR Text: 5 (Confidence: 0.62), Translation: frigo
+Frame 2221 - STR Text: lviov (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: Lviv
+Frame 2251 - STR Text: lviov (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: Lviv
+Frame 2341 - STR Text: viov (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: vivre
+Frame 2371 - STR Text: 9709/hgw1 (Confidence: 0.00), PaddleOCR Text: Mahletl6 (Confidence: 0.52), Translation: Mahlet
+Frame 2401 - STR Text: 97@9/hg! (Confidence: 0.18), PaddleOCR Text:  (Confidence: 0.00), Translation: hpbe क
+Frame 2431 - STR Text: v (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 3361 - STR Text: lv (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: lv
+Frame 3391 - STR Text: aewyork (Confidence: 0.65), PaddleOCR Text: NWORK (Confidence: 0.63), Translation: New York
+Frame 4531 - STR Text: vewyork (Confidence: 0.99), PaddleOCR Text: VEWYORK (Confidence: 0.90), Translation: New York
+Frame 4711 - STR Text: lo (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 4771 - STR Text: jey (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: Plus
+Frame 4801 - STR Text: menyork (Confidence: 0.56), PaddleOCR Text: NENYORK (Confidence: 0.89), Translation: New York
+Frame 4831 - STR Text: nen (Confidence: 1.00), PaddleOCR Text: NEN (Confidence: 0.98), Translation: an
+Frame 4861 - STR Text: meniork (Confidence: 0.26), PaddleOCR Text: NEYOAK (Confidence: 0.89), Translation: NEYOAK
+Frame 4891 - STR Text: newwiprk (Confidence: 0.77), PaddleOCR Text: NEWYDRK (Confidence: 0.93), Translation: Nouveau York
+Frame 4921 - STR Text: newyork (Confidence: 0.73), PaddleOCR Text: NEWYDRK (Confidence: 0.96), Translation: Nouveau York
+Frame 4951 - STR Text: newyprk (Confidence: 0.99), PaddleOCR Text: NEWYORK (Confidence: 0.94), Translation: New York
+Frame 4981 - STR Text: newyprk (Confidence: 0.95), PaddleOCR Text: NEWYDRK (Confidence: 0.95), Translation: Nouvelle-York
+Frame 5011 - STR Text: newyprk (Confidence: 0.37), PaddleOCR Text: NEWYDRK (Confidence: 0.94), Translation: Nouveau York
+Frame 5041 - STR Text: newyprk (Confidence: 0.75), PaddleOCR Text: NEWYDRK (Confidence: 0.94), Translation: Nouveau York
+Frame 5071 - STR Text: newy/prk (Confidence: 0.55), PaddleOCR Text: NEWYDRK (Confidence: 0.92), Translation: Nouveau York
+Frame 5101 - STR Text: newyprk (Confidence: 0.50), PaddleOCR Text: NEWYDRK (Confidence: 0.93), Translation: Nouveau York
+Frame 5131 - STR Text: newyprk (Confidence: 0.99), PaddleOCR Text: NEWYDRK (Confidence: 0.92), Translation: Nouvelle-York
+Frame 5161 - STR Text: newyprk (Confidence: 0.61), PaddleOCR Text: NEWYDRK (Confidence: 0.93), Translation: Nouveau York
+Frame 5191 - STR Text: newyprk (Confidence: 0.76), PaddleOCR Text: NEWYDRK (Confidence: 0.93), Translation: Nouveau York
+Frame 5221 - STR Text: newy/prk (Confidence: 0.85), PaddleOCR Text: NEWYJRK (Confidence: 0.95), Translation: NEW YORK
+Frame 5251 - STR Text: newyprk (Confidence: 0.65), PaddleOCR Text: NEWYDRK (Confidence: 0.93), Translation: Nouveau York
+Frame 5281 - STR Text: newy/prk (Confidence: 0.45), PaddleOCR Text: NEWYDRK (Confidence: 0.92), Translation: Nouveau York
+Frame 5311 - STR Text: neinyprk (Confidence: 0.62), PaddleOCR Text: NEWYDRK (Confidence: 0.95), Translation: Nouveau York
+Frame 5341 - STR Text: newy/prk (Confidence: 0.51), PaddleOCR Text: NEWYDRK (Confidence: 0.93), Translation: Nouveau York
+Frame 5371 - STR Text: newybrk (Confidence: 0.44), PaddleOCR Text: NEWYDRK (Confidence: 0.88), Translation: Nouveau York
+Frame 5401 - STR Text: nenyork (Confidence: 0.97), PaddleOCR Text: NENYORK (Confidence: 0.96), Translation: New York
+Frame 5461 - STR Text: nenyor (Confidence: 0.38), PaddleOCR Text: NENYORK (Confidence: 0.89), Translation: New York
+Frame 5491 - STR Text: liyor (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: dit
+Frame 5551 - STR Text: newyork (Confidence: 0.61), PaddleOCR Text: NEWYJRK (Confidence: 0.92), Translation: NEW YORK
+Frame 5581 - STR Text: evvek (Confidence: 0.31), PaddleOCR Text: EWYAK (Confidence: 0.77), Translation: Eau Yak
+Frame 5611 - STR Text: eveuk (Confidence: 0.17), PaddleOCR Text: EWVYTARK (Confidence: 0.73), Translation: EWVYTARK
+Frame 5641 - STR Text: newyrk (Confidence: 0.47), PaddleOCR Text: NEWYJAK (Confidence: 0.94), Translation: Nouveau Yéjak
+Frame 5731 - STR Text: nexydrk (Confidence: 0.58), PaddleOCR Text: NENYORK (Confidence: 0.85), Translation: New York
+Frame 5761 - STR Text: letyor (Confidence: 0.33), PaddleOCR Text: NEXYORK (Confidence: 0.89), Translation: Nexyork
+Frame 11941 - STR Text: ov (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: œuf
+Frame 91 - STR Text: cunyimok (Confidence: 0.20), PaddleOCR Text: WYeY (Confidence: 0.52), Translation: WYeY
+Frame 601 - STR Text: ecyuymek (Confidence: 0.01), PaddleOCR Text: MY (Confidence: 0.55), Translation: Mon
+Frame 781 - STR Text: iviov (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: ivoire
+Frame 811 - STR Text: livioc (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: ainsi
+Frame 841 - STR Text: ivicicy (Confidence: 0.20), PaddleOCR Text:  (Confidence: 0.00), Translation: ainsi
+Frame 871 - STR Text: iviov (Confidence: 0.35), PaddleOCR Text:  (Confidence: 0.00), Translation: ainsi
+Frame 901 - STR Text: lvidy (Confidence: 0.38), PaddleOCR Text:  (Confidence: 0.00), Translation: ssim
+Frame 961 - STR Text: ivincy (Confidence: 0.07), PaddleOCR Text:  (Confidence: 0.00), Translation: Wassim
+Frame 1021 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 1051 - STR Text: it. (Confidence: 1.00), PaddleOCR Text: it. (Confidence: 0.96), Translation: il
+Frame 1081 - STR Text: it (Confidence: 1.00), PaddleOCR Text: it (Confidence: 0.99), Translation: il
+Frame 1111 - STR Text: it (Confidence: 1.00), PaddleOCR Text: it (Confidence: 0.99), Translation: il
+Frame 1141 - STR Text: it (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: Fais-le
+Frame 1321 - STR Text: ivving (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: vivant
+Frame 1591 - STR Text: ivinov (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: Ivinov
+Frame 1651 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 1741 - STR Text: uv (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: uv
+Frame 1861 - STR Text: ivvinv (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00), Translation: ivvinv
+Frame 1981 - STR Text: ewvy (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: "ewvy"
+Frame 2011 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 2041 - STR Text: অফ (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: dur
+Frame 2071 - STR Text: af (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 2251 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 2371 - STR Text: v (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 2401 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 2521 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 2551 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 2671 - STR Text: good (Confidence: 0.60), PaddleOCR Text:  (Confidence: 0.00), Translation: c bon
+Frame 2701 - STR Text: re (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: "à nouveau"
+Frame 3151 - STR Text: luweriny (Confidence: 0.45), PaddleOCR Text: YODY (Confidence: 0.53), Translation: YODY
+Frame 3331 - STR Text: dv (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 3391 - STR Text: dv (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00), Translation: dv
+Frame 3481 - STR Text: nv (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: nv
+Frame 3511 - STR Text: dv (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: dv
+Frame 3541 - STR Text: urt (Confidence: 0.19), PaddleOCR Text:  (Confidence: 0.00), Translation: RaR
+Frame 3571 - STR Text: ~ (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00), Translation: ~
+Frame 3601 - STR Text: whun (Confidence: 0.20), PaddleOCR Text:  (Confidence: 0.00), Translation: "Rd"
+Frame 3631 - STR Text: mard (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00), Translation: Homme
+Frame 3871 - STR Text: n (Confidence: 0.60), PaddleOCR Text:  (Confidence: 0.00), Translation: n
+Frame 3931 - STR Text: i (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: Je
+Frame 3991 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 4111 - STR Text: in (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00), Translation: dans
+Frame 4141 - STR Text: 2 (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: 2
+Frame 4621 - STR Text: sixy (Confidence: 0.72), PaddleOCR Text:  (Confidence: 0.00), Translation: soixante
+Frame 5041 - STR Text: sivvend (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: sivvend
+Frame 5161 - STR Text: wvein (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: veine
+Frame 5191 - STR Text: e (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: haleine
+Frame 5221 - STR Text: i (Confidence: 0.31), PaddleOCR Text:  (Confidence: 0.00), Translation: avve
+Frame 5251 - STR Text: sivver (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: argent
+Frame 5281 - STR Text: dv (Confidence: 0.78), PaddleOCR Text:  (Confidence: 0.00), Translation: en vous
+Frame 5311 - STR Text: অ (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: "la"
+Frame 5401 - STR Text: isity (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: est-ce
+Frame 5731 - STR Text: veivvenn (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00), Translation: Bienvenue
+Frame 5911 - STR Text: isivven (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: sifflement
+Frame 6241 - STR Text: da (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 6481 - STR Text: veivvenn (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: Bienvenue
+Frame 6841 - STR Text: slang (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: B* 자 japonais argot
+Frame 6871 - STR Text: 17)و (Confidence: 0.23), PaddleOCR Text: ‮x (Confidence: 0.54), Translation: argot japonais x
+Frame 6901 - STR Text: viv (Confidence: 0.16), PaddleOCR Text:  (Confidence: 0.00), Translation: "argot japonais 17x7"
+Frame 7561 - STR Text: japanese (Confidence: 1.00), PaddleOCR Text: Japanese (Confidence: 0.99), Translation: japonais
+Frame 7591 - STR Text: lapanese (Confidence: 0.98), PaddleOCR Text: Japanese (Confidence: 0.99), Translation: Japonais
+Frame 7771 - STR Text: vy (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: ou
+Frame 7831 - STR Text: ivivenv (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: ivivenv
+Frame 7861 - STR Text: le (Confidence: 0.27), PaddleOCR Text:  (Confidence: 0.00), Translation: vy
+Frame 7891 - STR Text: iviven (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00), Translation: Je vis
+Frame 7921 - STR Text: vver (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: verre
+Frame 8041 - STR Text: vy (Confidence: 0.80), PaddleOCR Text:  (Confidence: 0.00), Translation: en
+Frame 8101 - STR Text: af (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 8131 - STR Text: sacaut (Confidence: 0.03), PaddleOCR Text:  (Confidence: 0.00), Translation: nous
+Frame 8161 - STR Text: brier (Confidence: 0.10), PaddleOCR Text:  (Confidence: 0.00), Translation: île
+Frame 8191 - STR Text: sabacce (Confidence: 0.01), PaddleOCR Text:  (Confidence: 0.00), Translation: poème
+Frame 8221 - STR Text: 6 (Confidence: 0.45), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 8251 - STR Text: le (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00), Translation: ! le
+Frame 8281 - STR Text: 1 (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00), Translation: 1
+Frame 8341 - STR Text: ivivern (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00), Translation: hibou
+Frame 8371 - STR Text: ivin (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: If
+Frame 8401 - STR Text: i (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00), Translation: Je
+Frame 8461 - STR Text: wy (Confidence: 0.89), PaddleOCR Text:  (Confidence: 0.00), Translation: nous
+Frame 1 - STR Text: wera (Confidence: 0.86), PaddleOCR Text:  (Confidence: 0.00), Translation: souris
+Frame 61 - STR Text: nov (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00), Translation: novembre
+Frame 121 - STR Text: ivodv (Confidence: 0.60), PaddleOCR Text:  (Confidence: 0.00), Translation: ivodv
+Frame 151 - STR Text: ivodv (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: ivodv
+Frame 181 - STR Text: ivady (Confidence: 0.80), PaddleOCR Text:  (Confidence: 0.00), Translation: invasion
+Frame 211 - STR Text: ivady (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: invasion
+Frame 31 - STR Text: nov (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: novembre
+Frame 91 - STR Text: voov (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: voov
+Frame 121 - STR Text: ivadv (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: avance
+Frame 1 - STR Text: winern (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: vigneron
+Frame 31 - STR Text: vehnoerungen (Confidence: 0.32), PaddleOCR Text:  (Confidence: 0.00), Translation: et
+Frame 61 - STR Text: pueblo (Confidence: 1.00), PaddleOCR Text: PUEBLO (Confidence: 0.98), Translation: ville
+Frame 91 - STR Text: pueblo (Confidence: 1.00), PaddleOCR Text: PUEBLO (Confidence: 0.97), Translation: ville
+Frame 151 - STR Text: pu (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: pu
+Frame 181 - STR Text: n (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: PUFRI n
+Frame 211 - STR Text: pueri (Confidence: 1.00), PaddleOCR Text: PUERI (Confidence: 0.89), Translation: enfants
+Frame 241 - STR Text: pueblo (Confidence: 1.00), PaddleOCR Text: PUEBLO (Confidence: 0.99), Translation: ville
+Frame 271 - STR Text: taba (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: tabac
+Frame 3181 - STR Text: aa (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: aa
+Frame 3211 - STR Text: seu-thee (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: thé à toi
+Frame 3271 - STR Text: l'adace (Confidence: 0.37), PaddleOCR Text:  (Confidence: 0.00), Translation: amour
+Frame 3301 - STR Text: peace (Confidence: 1.00), PaddleOCR Text: Peace (Confidence: 1.00), Translation: "? paix"
+Frame 3331 - STR Text: peace (Confidence: 1.00), PaddleOCR Text: Peace (Confidence: 0.99), Translation: paix
+Frame 3361 - STR Text: peace (Confidence: 1.00), PaddleOCR Text: Peace (Confidence: 1.00), Translation: paix inconnue
+Frame 31 - STR Text: এই! (Confidence: 0.14), PaddleOCR Text:  (Confidence: 0.00), Translation: pteno
+Frame 61 - STR Text: ভব (Confidence: 0.44), PaddleOCR Text:  (Confidence: 0.00), Translation: ou
+Frame 91 - STR Text: む (Confidence: 0.30), PaddleOCR Text:  (Confidence: 0.00), Translation: "otohp"
+Frame 121 - STR Text: ! (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: !
+Frame 151 - STR Text: l (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: l
+Frame 181 - STR Text: af (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 241 - STR Text: cococ (Confidence: 0.08), PaddleOCR Text:  (Confidence: 0.00), Translation: .i
+Frame 301 - STR Text: 要好 (Confidence: 0.31), PaddleOCR Text:  (Confidence: 0.00), Translation: Homme
+Frame 331 - STR Text: 要好 (Confidence: 0.31), PaddleOCR Text:  (Confidence: 0.00), Translation: Personne
+Frame 361 - STR Text: sob (Confidence: 0.12), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 391 - STR Text: bocochi (Confidence: 0.02), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 421 - STR Text: bog (Confidence: 0.06), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 451 - STR Text: 사랑해 (Confidence: 0.98), PaddleOCR Text: H우을Y (Confidence: 0.93), Translation: Je t'aime
+Frame 481 - STR Text: d (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: d
+Frame 511 - STR Text: vod (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: eau
+Frame 541 - STR Text: 年以 (Confidence: 0.27), PaddleOCR Text:  (Confidence: 0.00), Translation: Qu'est-ce que c'est ?
+Frame 571 - STR Text: ল (Confidence: 0.18), PaddleOCR Text: १। (Confidence: 0.59), Translation: Quoi ?
+Frame 661 - STR Text: 有 (Confidence: 0.23), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 781 - STR Text: ore (Confidence: 0.74), PaddleOCR Text:  (Confidence: 0.00), Translation: minerai
+Frame 871 - STR Text: ge (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: terre
+Frame 901 - STR Text: avibab (Confidence: 0.12), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 931 - STR Text: vod (Confidence: 0.27), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 1 - STR Text: o (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00), Translation: !
+Frame 31 - STR Text: 아 (Confidence: 0.48), PaddleOCR Text:  (Confidence: 0.00), Translation: !
+Frame 61 - STR Text: ! (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: !
+Frame 91 - STR Text: l (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00), Translation: l
+Frame 241 - STR Text: ale (Confidence: 0.83), PaddleOCR Text:  (Confidence: 0.00), Translation: bière
+Frame 541 - STR Text: to (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00), Translation: à
+Frame 631 - STR Text: s (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00), Translation: s
+Frame 811 - STR Text: 사2 (Confidence: 0.42), PaddleOCR Text:  (Confidence: 0.00), Translation: 0
+Frame 841 - STR Text: भव (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: Être
+Frame 871 - STR Text: xi (Confidence: 0.30), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 901 - STR Text: भव (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: Être
+Frame 931 - STR Text: oju (Confidence: 0.42), PaddleOCR Text: ohto (Confidence: 0.54), Translation: s
+Frame 961 - STR Text: भव (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: Être
+Frame 3151 - STR Text: coud (Confidence: 0.15), PaddleOCR Text:  (Confidence: 0.00), Translation: i
+Frame 3181 - STR Text: ge (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00), Translation: terre
+Frame 3211 - STR Text: get (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: obtenir
+Frame 3271 - STR Text: (thanks) (Confidence: 0.52), PaddleOCR Text: thanks. (Confidence: 0.90), Translation: 10/9 merci.
+Frame 3301 - STR Text: (thanks) (Confidence: 0.99), PaddleOCR Text: (thanks (Confidence: 0.95), Translation: 10/7 (merci)
+Frame 3331 - STR Text: (thanks) (Confidence: 0.99), PaddleOCR Text: (thanks) (Confidence: 0.97), Translation: 10/7 (merci)
+Frame 3361 - STR Text: (thanks) (Confidence: 0.99), PaddleOCR Text: (thanks) (Confidence: 0.91), Translation: merci
+Frame 3391 - STR Text: (thanks) (Confidence: 0.99), PaddleOCR Text: (thanks) (Confidence: 0.96), Translation: merci
+Frame 3421 - STR Text: (thanks) (Confidence: 1.00), PaddleOCR Text: (thanks) (Confidence: 0.97), Translation: Merci
+Frame 3451 - STR Text: thanks (Confidence: 0.87), PaddleOCR Text: (thanks) (Confidence: 0.93), Translation: merci
+Frame 3571 - STR Text: - (Confidence: 0.32), PaddleOCR Text:  (Confidence: 0.00), Translation: y
+Frame 3601 - STR Text: (thanks) (Confidence: 0.90), PaddleOCR Text: thanks (Confidence: 0.99), Translation: merci
+Frame 3631 - STR Text: (thanks) (Confidence: 1.00), PaddleOCR Text: (thanks) (Confidence: 0.96), Translation: merci
+Frame 3661 - STR Text: 10/9 (Confidence: 0.90), PaddleOCR Text: Lo (Confidence: 0.50), Translation: 10/9
+Frame 3691 - STR Text: 079 (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: 079
+Frame 4081 - STR Text: choji (Confidence: 0.16), PaddleOCR Text:  (Confidence: 0.00), Translation: Oui
+Frame 4111 - STR Text: chji (Confidence: 0.16), PaddleOCR Text:  (Confidence: 0.00), Translation: salut
+Frame 4141 - STR Text: di (Confidence: 0.95), PaddleOCR Text: 11O (Confidence: 0.52), Translation: de
+Frame 5251 - STR Text: (annyeong) (Confidence: 0.96), PaddleOCR Text: (Annyeong) (Confidence: 0.99), Translation: otla o (Annyeong) -> Adieu (Annyeong)
+Frame 5281 - STR Text: cannyeong) (Confidence: 0.76), PaddleOCR Text: (Annyeong) (Confidence: 0.99), Translation: Salut
+Frame 5311 - STR Text: o (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: o
+Frame 5491 - STR Text: s (Confidence: 0.72), PaddleOCR Text:  (Confidence: 0.00), Translation: s
+Frame 6061 - STR Text: butte (Confidence: 1.00), PaddleOCR Text: Butte (Confidence: 1.00), Translation: colline
+Frame 6091 - STR Text: af (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: af af
+Frame 6121 - STR Text: butte (Confidence: 1.00), PaddleOCR Text: Butte (Confidence: 1.00), Translation: colline
+Frame 6781 - STR Text: reduttiers (Confidence: 0.12), PaddleOCR Text: 1241813 (Confidence: 0.56), Translation: 1241813
+Frame 6811 - STR Text: af (Confidence: 0.82), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 7501 - STR Text: 111.30 (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: Qu
+Frame 7531 - STR Text: भवघड (Confidence: 0.47), PaddleOCR Text: पचंड (Confidence: 0.95), Translation: Pachand
+Frame 7561 - STR Text: भवन (Confidence: 0.98), PaddleOCR Text: a (Confidence: 0.53), Translation: Bâtiment
+Frame 8521 - STR Text: b (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: b
+Frame 8551 - STR Text: p (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: p
+Frame 61 - STR Text: dus (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: Aino
+Frame 91 - STR Text: arkowet (Confidence: 0.09), PaddleOCR Text:  (Confidence: 0.00), Translation: Rouge et jaune
+Frame 121 - STR Text: भवन (Confidence: 0.90), PaddleOCR Text: भरकम (Confidence: 1.00), Translation: ur भरकम → ur coûteux
+Frame 151 - STR Text: tetcea (Confidence: 0.11), PaddleOCR Text:  (Confidence: 0.00), Translation: sitquy
+Frame 871 - STR Text: 2 (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: 2
+Frame 901 - STR Text: peace (Confidence: 1.00), PaddleOCR Text: Peace (Confidence: 1.00), Translation: 2 paix
+Frame 2761 - STR Text: af (Confidence: 0.82), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 91 - STR Text: عريس (Confidence: 0.23), PaddleOCR Text: ‮عربي (Confidence: 0.97), Translation: arabe
+Frame 121 - STR Text: discover (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: Mot arabe - des milliers découvrent l'anbic
+Frame 151 - STR Text: tore (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: bon pe
+Frame 181 - STR Text: 下さい (Confidence: 0.50), PaddleOCR Text:  (Confidence: 0.00), Translation: S'il vous plaît
+Frame 241 - STR Text: af (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 271 - STR Text: frici (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00), Translation: friand
+Frame 811 - STR Text: rudetzirers (Confidence: 0.02), PaddleOCR Text: 10C416155 (Confidence: 0.58), Translation: 10C416155q
+Frame 301 - STR Text: redotzion (Confidence: 0.44), PaddleOCR Text: 1924181515 (Confidence: 0.52), Translation: 1924181515
+Frame 1051 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text: H워을Y (Confidence: 0.76), Translation: Je t'aime
+Frame 1081 - STR Text: 사랑해 (Confidence: 1.00), PaddleOCR Text: H우을Y (Confidence: 0.86), Translation: Je t'aime
+Frame 1111 - STR Text: dh (Confidence: 0.38), PaddleOCR Text: tH? (Confidence: 0.70), Translation: Qu'est-ce que c'est ?
+Frame 1141 - STR Text: एल (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00), Translation: L
+Frame 1381 - STR Text: भव (Confidence: 0.74), PaddleOCR Text:  (Confidence: 0.00), Translation: Être
+Frame 1411 - STR Text: w08) (Confidence: 0.08), PaddleOCR Text:  (Confidence: 0.00), Translation: on
+Frame 1531 - STR Text: عري (Confidence: 0.94), PaddleOCR Text: ‮عربي (Confidence: 0.99), Translation: arabe
+Frame 1561 - STR Text: lob (Confidence: 0.92), PaddleOCR Text:  (Confidence: 0.00), Translation: Lob
+Frame 511 - STR Text: عرس (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: mariage
+Frame 541 - STR Text: carinti (Confidence: 0.14), PaddleOCR Text:  (Confidence: 0.00), Translation: - de
+Frame 571 - STR Text: 有 (Confidence: 0.32), PaddleOCR Text:  (Confidence: 0.00), Translation: b
+Frame 601 - STR Text: jamith (Confidence: 0.43), PaddleOCR Text:  (Confidence: 0.00), Translation: Beau
+Frame 631 - STR Text: jamm (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00), Translation: gêne
+Frame 1051 - STR Text: 사랑해 (Confidence: 0.97), PaddleOCR Text: H우을Y (Confidence: 0.79), Translation: Je t'aime
+Frame 1081 - STR Text: 사랑해 (Confidence: 0.97), PaddleOCR Text: H우을Y (Confidence: 0.79), Translation: Je t'aime
+Frame 2071 - STR Text: 사랑해 (Confidence: 0.96), PaddleOCR Text: 워을Y (Confidence: 0.84), Translation: Je t'aime
+Frame 2101 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text: 워을Y (Confidence: 0.86), Translation: Je t'aime
+Frame 31 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text: H우Y (Confidence: 0.99), Translation: Je t'aime
+Frame 61 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text: 우을Y (Confidence: 0.87), Translation: Je t'aime
+Frame 1 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text: H우울{Y (Confidence: 0.80), Translation: Je t'aime
+Frame 31 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text: H워을Y (Confidence: 0.77), Translation: Je t'aime
+Frame 421 - STR Text: جميل (Confidence: 0.83), PaddleOCR Text: ‮مم (Confidence: 0.72), Translation: Beau
+Frame 451 - STR Text: jamil (Confidence: 0.46), PaddleOCR Text:  (Confidence: 0.00), Translation: fuhhe e
+Frame 31 - STR Text: lechnaderuapon (Confidence: 0.02), PaddleOCR Text:  (Confidence: 0.00), Translation: "ravchen verursachi und" -> "ravchen provoque et"
+Frame 61 - STR Text: cchinderungen (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: et des enfants
+Frame 91 - STR Text: behinoerungen (Confidence: 0.87), PaddleOCR Text: Behinderungen (Confidence: 0.99), Translation: et des handicaps
+Frame 331 - STR Text: p (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: p
+Frame 91 - STR Text: 사& (Confidence: 0.14), PaddleOCR Text: 사링 (Confidence: 0.68), Translation: Saring
+Frame 121 - STR Text: 사랑해 (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: Je t'aime
+Frame 151 - STR Text: 사랑해 (Confidence: 0.96), PaddleOCR Text: 우을Y (Confidence: 0.88), Translation: Je t'aime
+Frame 31 - STR Text: 사랑해 (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: Je t'aime
+Frame 31 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: Je t'aime
+Frame 61 - STR Text: 사랑해 (Confidence: 0.98), PaddleOCR Text: H우을Y (Confidence: 0.69), Translation: Je t'aime
+Frame 241 - STR Text: 사랑해 (Confidence: 0.84), PaddleOCR Text: 우을Y (Confidence: 0.90), Translation: "우을Y"
+Frame 301 - STR Text: 사랑해 (Confidence: 0.51), PaddleOCR Text: H우을1 (Confidence: 0.71), Translation: H우을1
+Frame 331 - STR Text: dor (Confidence: 0.35), PaddleOCR Text: Hoe (Confidence: 0.54), Translation: houe
+Frame 361 - STR Text: 下 (Confidence: 0.43), PaddleOCR Text: H우을{ (Confidence: 0.72), Translation: H우을{
+Frame 421 - STR Text: 사랑해 (Confidence: 0.96), PaddleOCR Text: H우Y (Confidence: 0.84), Translation: Je t'aime
+Frame 451 - STR Text: 사랑해 (Confidence: 0.96), PaddleOCR Text: H워Y (Confidence: 0.92), Translation: Je t'aime
+Frame 481 - STR Text: 사랑해 (Confidence: 0.98), PaddleOCR Text: H워Y (Confidence: 0.84), Translation: Je t'aime
+Frame 1 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text: 우을Y (Confidence: 0.95), Translation: Je t'aime
+Frame 31 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text: 우을Y (Confidence: 0.78), Translation: Je t'aime
+Frame 1 - STR Text: دمس (Confidence: 0.92), PaddleOCR Text:  (Confidence: 0.00), Translation: Doms
+Frame 121 - STR Text: deadittoi (Confidence: 0.01), PaddleOCR Text:  (Confidence: 0.00), Translation: Beau
+Frame 151 - STR Text: deautiful (Confidence: 0.86), PaddleOCR Text: beautiful (Confidence: 0.93), Translation: beau
+Frame 31 - STR Text: na (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00), Translation: et
+Frame 61 - STR Text: p (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00), Translation: p
+Frame 91 - STR Text: f (Confidence: 0.48), PaddleOCR Text:  (Confidence: 0.00), Translation: Belle
+Frame 121 - STR Text: tom (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00), Translation: tomate
+Frame 151 - STR Text: t (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 1 - STR Text: - (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 31 - STR Text: جميل (Confidence: 0.92), PaddleOCR Text: ‮جميل (Confidence: 0.99), Translation: Beau
+Frame 241 - STR Text: lias (Confidence: 0.89), PaddleOCR Text:  (Confidence: 0.00), Translation: liasse
+Frame 271 - STR Text: seauit (Confidence: 0.44), PaddleOCR Text:  (Confidence: 0.00), Translation: moule
+Frame 301 - STR Text: deautifui (Confidence: 0.82), PaddleOCR Text: oeautiful (Confidence: 0.89), Translation: oeautiful
+Frame 331 - STR Text: c (Confidence: 0.26), PaddleOCR Text:  (Confidence: 0.00), Translation: ‮م
+Frame 361 - STR Text: deautifu (Confidence: 0.99), PaddleOCR Text: beautiful (Confidence: 0.98), Translation: déautifu
+Frame 391 - STR Text: diauthoit (Confidence: 0.01), PaddleOCR Text:  (Confidence: 0.00), Translation: ‮حميل
+Frame 421 - STR Text: em (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: em
+Frame 601 - STR Text: 1 (Confidence: 0.44), PaddleOCR Text:  (Confidence: 0.00), Translation: Poutre
+Frame 631 - STR Text: lami (Confidence: 0.43), PaddleOCR Text:  (Confidence: 0.00), Translation: ‮م
+Frame 661 - STR Text: tm (Confidence: 0.37), PaddleOCR Text:  (Confidence: 0.00), Translation: Belle
+Frame 691 - STR Text: tami (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: tami
+Frame 751 - STR Text: جميل (Confidence: 0.61), PaddleOCR Text: ‮جميل (Confidence: 0.99), Translation: Beau
+Frame 781 - STR Text: جميل (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00), Translation: Beau
+Frame 811 - STR Text: immin (Confidence: 0.10), PaddleOCR Text:  (Confidence: 0.00), Translation: beau
+Frame 841 - STR Text: جميل (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: Beau
+Frame 901 - STR Text: مطع (Confidence: 0.60), PaddleOCR Text:  (Confidence: 0.00), Translation: Mout
+Frame 1081 - STR Text: عمل (Confidence: 0.55), PaddleOCR Text: ‮جميل (Confidence: 0.86), Translation: Belle
+Frame 1111 - STR Text: حمس (Confidence: 0.22), PaddleOCR Text: ‮جميل (Confidence: 0.87), Translation: Beau
+Frame 1141 - STR Text: حمل (Confidence: 0.63), PaddleOCR Text: ‮م  (Confidence: 0.76), Translation: ‮م
+Frame 1171 - STR Text: حمل (Confidence: 0.56), PaddleOCR Text: ‮ميل (Confidence: 0.95), Translation: Seuil
+Frame 1201 - STR Text: حمل (Confidence: 0.80), PaddleOCR Text: ‮جميل (Confidence: 0.92), Translation: Beau
+Frame 1261 - STR Text: حمل (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00), Translation: Sac
+Frame 1291 - STR Text: حمل (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00), Translation: charger
+Frame 1321 - STR Text: غسمل (Confidence: 0.14), PaddleOCR Text: ‮جميل (Confidence: 0.90), Translation: Beau
+Frame 1351 - STR Text: مصل (Confidence: 0.17), PaddleOCR Text: ‮جميل (Confidence: 0.95), Translation: Beau
+Frame 1381 - STR Text: غيصل (Confidence: 0.17), PaddleOCR Text: ‮جميل (Confidence: 0.88), Translation: Beau
+Frame 1411 - STR Text: مصيل (Confidence: 0.19), PaddleOCR Text: ‮جميل (Confidence: 0.93), Translation: Beau
+Frame 1441 - STR Text: غسيل (Confidence: 0.05), PaddleOCR Text: ‮جميل (Confidence: 0.74), Translation: Beau
+Frame 1471 - STR Text: مصمل (Confidence: 0.45), PaddleOCR Text: ‮جميل (Confidence: 0.85), Translation: Beau
+Frame 1501 - STR Text: حميل (Confidence: 0.50), PaddleOCR Text: ‮جميل (Confidence: 0.93), Translation: Belle
+Frame 1531 - STR Text: حميل (Confidence: 0.55), PaddleOCR Text: ‮جميل (Confidence: 0.98), Translation: Beau
+Frame 1561 - STR Text: مصل (Confidence: 0.60), PaddleOCR Text: ‮حميل (Confidence: 0.89), Translation: Téléchargement
+Frame 1591 - STR Text: حميل (Confidence: 0.24), PaddleOCR Text: ‮جمي (Confidence: 0.75), Translation: jamie
+Frame 31 - STR Text: deautifu (Confidence: 0.99), PaddleOCR Text: beautiful (Confidence: 0.95), Translation: défiguré
+Frame 61 - STR Text: beautiful (Confidence: 1.00), PaddleOCR Text: beautifu (Confidence: 0.99), Translation: beau
+Frame 91 - STR Text: le (Confidence: 0.42), PaddleOCR Text:  (Confidence: 0.00), Translation: am
+Frame 121 - STR Text: مصبل (Confidence: 0.31), PaddleOCR Text: ‮جميل (Confidence: 0.92), Translation: Beau
+Frame 151 - STR Text: حمل (Confidence: 0.75), PaddleOCR Text: ‮حميل (Confidence: 0.93), Translation: Téléchargement
+Frame 181 - STR Text: مصل (Confidence: 0.31), PaddleOCR Text: ‮حميل (Confidence: 0.96), Translation: Téléchargement
+Frame 211 - STR Text: مصبل (Confidence: 0.26), PaddleOCR Text: ‮جميل (Confidence: 0.99), Translation: Belle
+Frame 241 - STR Text: iam (Confidence: 0.93), PaddleOCR Text: am (Confidence: 0.98), Translation: suis
+Frame 271 - STR Text: iami (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: Je
+Frame 391 - STR Text: مصل (Confidence: 0.42), PaddleOCR Text: ‮م (Confidence: 0.60), Translation: ‮م
+Frame 421 - STR Text: jam (Confidence: 1.00), PaddleOCR Text: jam (Confidence: 0.89), Translation: confiture
+Frame 451 - STR Text: عمل (Confidence: 0.48), PaddleOCR Text: ‮م  (Confidence: 0.52), Translation: ‮م
+Frame 481 - STR Text: حمل (Confidence: 0.50), PaddleOCR Text: ‮م  (Confidence: 0.73), Translation: ‮م
+Frame 511 - STR Text: حمل (Confidence: 0.34), PaddleOCR Text: ‮م (Confidence: 0.76), Translation: ‮م
+Frame 601 - STR Text: يميل (Confidence: 0.37), PaddleOCR Text: ‮جميل (Confidence: 0.87), Translation: Beau
+Frame 631 - STR Text: حميل (Confidence: 0.30), PaddleOCR Text: ‮جميل (Confidence: 0.98), Translation: Belle
+Frame 661 - STR Text: مصبل (Confidence: 0.15), PaddleOCR Text: ‮جميل (Confidence: 0.87), Translation: Belle
+Frame 181 - STR Text: che (Confidence: 0.49), PaddleOCR Text:  (Confidence: 0.00), Translation: ‮جميل
+Frame 211 - STR Text: beautiful (Confidence: 0.98), PaddleOCR Text: beautiful (Confidence: 0.99), Translation: beau
+Frame 241 - STR Text: حمل (Confidence: 0.56), PaddleOCR Text: ‮جميل (Confidence: 0.94), Translation: Belle
+Frame 271 - STR Text: جميل (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: Beau
+Frame 301 - STR Text: omul (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: l'homme
+Frame 31 - STR Text: مصل (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00), Translation: Vaccin
+Frame 61 - STR Text: t (Confidence: 0.84), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 91 - STR Text: l (Confidence: 0.41), PaddleOCR Text:  (Confidence: 0.00), Translation: ميل
+Frame 151 - STR Text: p (Confidence: 0.46), PaddleOCR Text:  (Confidence: 0.00), Translation: Charger
+Frame 181 - STR Text: p (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00), Translation: p
+Frame 211 - STR Text: i (Confidence: 0.43), PaddleOCR Text:  (Confidence: 0.00), Translation: Charge
+Frame 241 - STR Text: t (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 271 - STR Text: tok (Confidence: 0.85), PaddleOCR Text:  (Confidence: 0.00), Translation: bloc
+Frame 61 - STR Text: مصل (Confidence: 0.68), PaddleOCR Text: ‮جميل (Confidence: 0.86), Translation: Beau
+Frame 91 - STR Text: recte (Confidence: 0.08), PaddleOCR Text:  (Confidence: 0.00), Translation: beau
+Frame 121 - STR Text: 1 (Confidence: 0.92), PaddleOCR Text:  (Confidence: 0.00), Translation: 1
+Frame 151 - STR Text: t (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 451 - STR Text: حمل (Confidence: 0.20), PaddleOCR Text: ‮حميل (Confidence: 0.94), Translation: Téléchargement
+Frame 481 - STR Text: lamu (Confidence: 0.49), PaddleOCR Text:  (Confidence: 0.00), Translation: beau
+Frame 511 - STR Text: tamu (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: invité
+Frame 541 - STR Text: un (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00), Translation: un
+Frame 601 - STR Text: جميل (Confidence: 0.46), PaddleOCR Text: ‮جميل (Confidence: 0.84), Translation: Beau
+Frame 631 - STR Text: محمد (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00), Translation: Mohammed
+Frame 61 - STR Text: حمول (Confidence: 0.12), PaddleOCR Text: ‮جميل (Confidence: 0.95), Translation: Belle
+Frame 91 - STR Text: l (Confidence: 0.84), PaddleOCR Text:  (Confidence: 0.00), Translation: l
+Frame 121 - STR Text: حمصل (Confidence: 0.23), PaddleOCR Text: ‮جميل (Confidence: 0.98), Translation: Beau
+Frame 181 - STR Text: حمل (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: Sac
+Frame 211 - STR Text: حمد (Confidence: 0.63), PaddleOCR Text: ‮جميل (Confidence: 0.78), Translation: Belle
+Frame 421 - STR Text: حمل (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: charger
+Frame 451 - STR Text: toc (Confidence: 0.46), PaddleOCR Text:  (Confidence: 0.00), Translation: beau
+Frame 481 - STR Text: e (Confidence: 0.44), PaddleOCR Text:  (Confidence: 0.00), Translation: ‮جميل
+Frame 511 - STR Text: بصيل (Confidence: 0.30), PaddleOCR Text: ‮جميل (Confidence: 0.91), Translation: Beau
+Frame 541 - STR Text: يصيل (Confidence: 0.29), PaddleOCR Text: ‮جميل (Confidence: 0.97), Translation: Belle
+Frame 571 - STR Text: مصل (Confidence: 0.34), PaddleOCR Text: ‮حميل (Confidence: 0.86), Translation: Téléchargement
+Frame 601 - STR Text: مصمل (Confidence: 0.37), PaddleOCR Text: ‮ام (Confidence: 0.65), Translation: ‮am
+Frame 631 - STR Text: مصل (Confidence: 0.22), PaddleOCR Text: ‮جميل (Confidence: 0.83), Translation: Beau
+Frame 661 - STR Text: حميل (Confidence: 0.18), PaddleOCR Text: ‮جميل (Confidence: 0.94), Translation: Belle
+Frame 691 - STR Text: مصمل (Confidence: 0.54), PaddleOCR Text: ‮حميل (Confidence: 0.80), Translation: Téléchargement
+Frame 1 - STR Text: حمل (Confidence: 0.61), PaddleOCR Text:  (Confidence: 0.00), Translation: charger
+Frame 61 - STR Text: lamil (Confidence: 0.40), PaddleOCR Text:  (Confidence: 0.00), Translation: beau
+Frame 91 - STR Text: in (Confidence: 0.28), PaddleOCR Text:  (Confidence: 0.00), Translation: Vaccin
+Frame 151 - STR Text: f (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: f
+Frame 181 - STR Text: jamil (Confidence: 0.89), PaddleOCR Text: amil (Confidence: 0.78), Translation: beau
+Frame 721 - STR Text: peautin (Confidence: 0.72), PaddleOCR Text:  (Confidence: 0.00), Translation: petit pois
+Frame 781 - STR Text: m (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00), Translation: m
+Frame 811 - STR Text: حميل (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: Téléchargement
+Frame 871 - STR Text: جميل (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: Jamil
+Frame 901 - STR Text: جميل (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: Jamil
+Frame 931 - STR Text: جمل (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00), Translation: Dune
+Frame 991 - STR Text: جمل (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00), Translation: Chameau
+Frame 1021 - STR Text: - (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 1141 - STR Text: حمعل (Confidence: 0.31), PaddleOCR Text: ‮  (Confidence: 0.50), Translation: ‮
+Frame 1171 - STR Text: جمل (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: Chameau
+Frame 1231 - STR Text: جمل (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: Chameau
+Frame 1261 - STR Text: جميل (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: Jamil
+Frame 1321 - STR Text: جميل (Confidence: 0.92), PaddleOCR Text: ‮م  (Confidence: 0.72), Translation: Beau
+Frame 1681 - STR Text: حمل (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00), Translation: charger
+Frame 1741 - STR Text: حمل (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: Sac
+Frame 1801 - STR Text: lam! (Confidence: 0.39), PaddleOCR Text: am (Confidence: 1.00), Translation: Je
+Frame 1831 - STR Text: m (Confidence: 0.92), PaddleOCR Text:  (Confidence: 0.00), Translation: m
+Frame 1891 - STR Text: جميل (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: Beau
+Frame 1921 - STR Text: جميل (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: Beau
+Frame 1 - STR Text: le (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 1 - STR Text: spes (Confidence: 0.96), PaddleOCR Text: G..ES (Confidence: 0.70), Translation: Espoir
+Frame 31 - STR Text: soes (Confidence: 0.97), PaddleOCR Text: GOES (Confidence: 0.89), Translation: chaussures
+Frame 61 - STR Text: eoes (Confidence: 0.56), PaddleOCR Text: GOES (Confidence: 0.78), Translation: Satellites géostationnaires
+Frame 91 - STR Text: 1 (Confidence: 0.92), PaddleOCR Text:  (Confidence: 0.00), Translation: 1
+Frame 121 - STR Text: todlich (Confidence: 0.99), PaddleOCR Text: todlich (Confidence: 1.00), Translation: Auteur est mortel
+Frame 151 - STR Text: todlich (Confidence: 1.00), PaddleOCR Text: todlich (Confidence: 1.00), Translation: Fumer est mortel
+Frame 181 - STR Text: todlich (Confidence: 0.98), PaddleOCR Text: todlich (Confidence: 1.00), Translation: Fumer est mortel
+Frame 211 - STR Text: spes (Confidence: 1.00), PaddleOCR Text: RES (Confidence: 0.75), Translation: Espoir
+Frame 241 - STR Text: i (Confidence: 0.45), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 271 - STR Text: de (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: de
+Frame 301 - STR Text: d (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: r
+Frame 331 - STR Text: 16 (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: Chapeau 16
+Frame 361 - STR Text: na (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: et
+Frame 31 - STR Text: aussenen (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: pensée bonne à l'extérieur
+Frame 61 - STR Text: aussehen. (Confidence: 0.89), PaddleOCR Text: AUSSEHEN (Confidence: 0.96), Translation: SIMPLEMENT bien PARAÎTRE
+Frame 91 - STR Text: aussenen (Confidence: 0.99), PaddleOCR Text: NAHESSOY (Confidence: 0.67), Translation: simplement bien à l'extérieur
+Frame 331 - STR Text: なか (Confidence: 0.85), PaddleOCR Text:  (Confidence: 0.00), Translation: dans
+Frame 391 - STR Text: aussenen (Confidence: 0.99), PaddleOCR Text: AUSSMIM (Confidence: 0.85), Translation: lignes à l'extérieur
+Frame 421 - STR Text: aussenen. (Confidence: 1.00), PaddleOCR Text: AUSSEHEN (Confidence: 0.99), Translation: SIMPLEMENT bien à l'extérieur.
+Frame 451 - STR Text: aussenen. (Confidence: 1.00), PaddleOCR Text: AUSSEHEN (Confidence: 0.99), Translation: simplement bien à l'extérieur
+Frame 481 - STR Text: vavava (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: vavava
+Frame 511 - STR Text: フ (Confidence: 0.43), PaddleOCR Text:  (Confidence: 0.00), Translation: vavav
+Frame 541 - STR Text: wvana (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: Enfant
+Frame 571 - STR Text: vavava (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: vavava
+Frame 691 - STR Text: mavan (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00), Translation: mousson
+Frame 721 - STR Text: mavan (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00), Translation: mousson
+Frame 781 - STR Text: vn (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: vn
+Frame 1 - STR Text: #ori (Confidence: 0.41), PaddleOCR Text: L90 (Confidence: 0.69), Translation: L90
+Frame 31 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.96), Translation: mélodies
+Frame 61 - STR Text: tones (Confidence: 0.84), PaddleOCR Text: TIONES (Confidence: 0.90), Translation: Tions
+Frame 91 - STR Text: tones (Confidence: 0.96), PaddleOCR Text: CONEY (Confidence: 0.97), Translation: Hot dog
+Frame 121 - STR Text: tones (Confidence: 0.99), PaddleOCR Text: -ONEY (Confidence: 0.86), Translation: tons
+Frame 151 - STR Text: tines (Confidence: 0.38), PaddleOCR Text: TONES (Confidence: 0.99), Translation: TONES
+Frame 181 - STR Text: toone (Confidence: 0.96), PaddleOCR Text: LOO (Confidence: 0.72), Translation: carton
+Frame 211 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.91), Translation: Looney Tunes
+Frame 241 - STR Text: tures (Confidence: 0.81), PaddleOCR Text: TLNMIES (Confidence: 0.71), Translation: looney tures
+Frame 271 - STR Text: tures (Confidence: 0.87), PaddleOCR Text: TLMES (Confidence: 0.70), Translation: looney tures
+Frame 301 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.82), Translation: Looney Tunes
+Frame 331 - STR Text: tunes (Confidence: 0.99), PaddleOCR Text: TONES (Confidence: 0.88), Translation: Looney Tunes
+Frame 361 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TONES (Confidence: 0.90), Translation: Looney Tunes
+Frame 391 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.92), Translation: Looney Tunes
+Frame 421 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.87), Translation: Looney Tunes
+Frame 451 - STR Text: tunes (Confidence: 0.99), PaddleOCR Text: TIONES (Confidence: 0.90), Translation: Looney Tunes
+Frame 481 - STR Text: tones (Confidence: 0.99), PaddleOCR Text: TIUNES (Confidence: 0.87), Translation: tons
+Frame 511 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.87), Translation: mélodies
+Frame 541 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.98), Translation: mélodies
+Frame 571 - STR Text: tunes (Confidence: 0.94), PaddleOCR Text: VES (Confidence: 0.93), Translation: mélodies
+Frame 601 - STR Text: tunes (Confidence: 0.99), PaddleOCR Text: INES (Confidence: 0.84), Translation: mélodies
+Frame 631 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: INES (Confidence: 0.88), Translation: mélodies
+Frame 661 - STR Text: tunes (Confidence: 0.77), PaddleOCR Text: NES (Confidence: 0.99), Translation: NES
+Frame 691 - STR Text: tunes (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: Looney Tunes
+Frame 721 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.82), Translation: Looney Tunes
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.95), Translation: mélodies
+Frame 31 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.96), Translation: mélodies
+Frame 61 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.95), Translation: mélodies
+Frame 91 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.94), Translation: mélodies
+Frame 121 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.98), Translation: mélodies
+Frame 151 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.97), Translation: mélodies
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.91), Translation: mélodies
+Frame 31 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.94), Translation: mélodies
+Frame 1 - STR Text: tunes (Confidence: 0.67), PaddleOCR Text: TUNES (Confidence: 0.89), Translation: TUNES
+Frame 31 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TONES (Confidence: 0.95), Translation: mélodies
+Frame 61 - STR Text: tunes (Confidence: 0.99), PaddleOCR Text: TUNES (Confidence: 0.90), Translation: mélodies
+Frame 91 - STR Text: tenes (Confidence: 0.82), PaddleOCR Text: TONES (Confidence: 0.90), Translation: TONES
+Frame 121 - STR Text: tunes (Confidence: 0.99), PaddleOCR Text: TNES (Confidence: 0.99), Translation: déjanté TNES
+Frame 151 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TINES (Confidence: 0.85), Translation: Looney Tunes
+Frame 181 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TONES (Confidence: 0.92), Translation: Looney Tunes
+Frame 211 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TONES (Confidence: 0.93), Translation: Looney Tunes
+Frame 241 - STR Text: ies (Confidence: 0.77), PaddleOCR Text: JES (Confidence: 0.76), Translation: îles
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.94), Translation: melodies
+Frame 31 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.95), Translation: melodies
+Frame 61 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.97), Translation: melodies
+Frame 91 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.93), Translation: melodies
+Frame 121 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.96), Translation: melodies
+Frame 151 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.98), Translation: melodies
+Frame 181 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.95), Translation: melodies
+Frame 211 - STR Text: tones (Confidence: 0.99), PaddleOCR Text: LOONET (Confidence: 0.70), Translation: tones
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.94), Translation: melodies
+Frame 1 - STR Text: t (Confidence: 0.72), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 31 - STR Text: tu (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: WC
+Frame 61 - STR Text: lu (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: le loup
+Frame 91 - STR Text: tu (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: ou toi
+Frame 1 - STR Text: tu (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: toilet
+Frame 1 - STR Text: tun (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: Wasserfall
+Frame 1 - STR Text: tur (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: مرحاض
+Frame 1 - STR Text: tores (Confidence: 0.84), PaddleOCR Text: LOONEY (Confidence: 0.88), Translation: Fou
+Frame 31 - STR Text: ores (Confidence: 0.34), PaddleOCR Text: LOONEY (Confidence: 0.88), Translation: Fou
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TONES (Confidence: 0.90), Translation: أغاني
+Frame 31 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TONES (Confidence: 0.94), Translation: أغاني
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.92), Translation: mélodies
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIONES (Confidence: 0.77), Translation: kappaleet
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TONES (Confidence: 0.93), Translation: melodies
+Frame 31 - STR Text: pores (Confidence: 0.42), PaddleOCR Text: LOONEY (Confidence: 0.96), Translation: LOONEY
+Frame 61 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.82), Translation: kappaleet
+Frame 91 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TOWES (Confidence: 0.74), Translation: kappaleet
+Frame 1 - STR Text: tones (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00), Translation: toni
+Frame 31 - STR Text: stones (Confidence: 0.19), PaddleOCR Text: LONONY (Confidence: 0.54), Translation: LONONY
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.93), Translation: melodie
+Frame 1 - STR Text: tunes (Confidence: 0.99), PaddleOCR Text: LOONNT (Confidence: 0.74), Translation: أغاني
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.84), Translation: melodies
+Frame 31 - STR Text: hones (Confidence: 0.87), PaddleOCR Text: LOONET (Confidence: 0.67), Translation: hones
+Frame 61 - STR Text: tures (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.82), Translation: Features
+Frame 91 - STR Text: tures (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.96), Translation: Features
+Frame 121 - STR Text: tune (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: song
+Frame 1 - STR Text: hones (Confidence: 0.59), PaddleOCR Text: LOONET (Confidence: 0.69), Translation: لونيت
+Frame 31 - STR Text: hones (Confidence: 0.19), PaddleOCR Text: LOONET (Confidence: 0.77), Translation: لونيت
+Frame 61 - STR Text: tunes (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: أغاني
+Frame 91 - STR Text: tones (Confidence: 0.24), PaddleOCR Text: LOONET (Confidence: 0.77), Translation: لونيت
+Frame 121 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: أغاني
+Frame 151 - STR Text: tunes (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00), Translation: أغاني
+Frame 1 - STR Text: lin (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: ЗУБЬЯ
+Frame 31 - STR Text: tures (Confidence: 0.85), PaddleOCR Text: TUNES (Confidence: 0.75), Translation: туры
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.95), Translation: melodii
+Frame 1 - STR Text: tounes (Confidence: 0.43), PaddleOCR Text: TONES (Confidence: 0.93), Translation: Töne
+Frame 31 - STR Text: tognes (Confidence: 0.64), PaddleOCR Text: TIONES (Confidence: 0.88), Translation: Tionen
+Frame 1 - STR Text: hotres (Confidence: 0.26), PaddleOCR Text: LOONEY (Confidence: 0.94), Translation: Verrückt
+Frame 1 - STR Text: tones (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: Töne
+Frame 31 - STR Text: looney (Confidence: 0.76), PaddleOCR Text: ONNET (Confidence: 0.55), Translation: looney
+Frame 61 - STR Text: looney (Confidence: 1.00), PaddleOCR Text: LOONEY (Confidence: 0.88), Translation: looney
+Frame 91 - STR Text: boney (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: bony
+Frame 121 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.86), Translation: Looney Tunes
+Frame 151 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.84), Translation: Väiski Vinkit
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TIUNES (Confidence: 0.92), Translation: mélodies
+Frame 151 - STR Text: a (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: a
+Frame 181 - STR Text: as (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: comme
+Frame 451 - STR Text: s (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: ney s
+Frame 661 - STR Text: lc (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: cl
+Frame 871 - STR Text: r (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: r
+Frame 901 - STR Text: 1 (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00), Translation: 1
+Frame 931 - STR Text: c (Confidence: 0.60), PaddleOCR Text:  (Confidence: 0.00), Translation: c
+Frame 1231 - STR Text: ne (Confidence: 0.50), PaddleOCR Text:  (Confidence: 0.00), Translation: lune
+Frame 1261 - STR Text: tu (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: le toi
+Frame 1291 - STR Text: t (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 1321 - STR Text: looney (Confidence: 0.78), PaddleOCR Text: LOONE (Confidence: 0.81), Translation: Lune
+Frame 1351 - STR Text: ey (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: yeux
+Frame 1381 - STR Text: tu (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: toi
+Frame 1411 - STR Text: aly (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: aile
+Frame 1441 - STR Text: ale (Confidence: 0.70), PaddleOCR Text: Ho1Y (Confidence: 0.65), Translation: bière
+Frame 1471 - STR Text: nsc (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: NSC
+Frame 1501 - STR Text: 시 (Confidence: 0.51), PaddleOCR Text: Fo (Confidence: 0.70), Translation: Fo
+Frame 2101 - STR Text: ney (Confidence: 0.82), PaddleOCR Text:  (Confidence: 0.00), Translation: nez
+Frame 2131 - STR Text: ، (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: e
+Frame 2161 - STR Text: tipney (Confidence: 0.32), PaddleOCR Text: POOEY (Confidence: 0.69), Translation: POOEY
+Frame 2191 - STR Text: tiuner (Confidence: 0.34), PaddleOCR Text: DONEY (Confidence: 0.91), Translation: DONEY
+Frame 2221 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 2251 - STR Text: محم (Confidence: 0.82), PaddleOCR Text:  (Confidence: 0.00), Translation: Moham
+Frame 2281 - STR Text: عمل (Confidence: 0.35), PaddleOCR Text: ‮ م  (Confidence: 0.64), Translation: ‮ م
+Frame 2311 - STR Text: looney (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: déjanté
+Frame 2341 - STR Text: loone (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00), Translation: lune
+Frame 2371 - STR Text: quey (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: u
+Frame 2401 - STR Text: ley (Confidence: 0.56), PaddleOCR Text: JES (Confidence: 0.71), Translation: Jésus
+Frame 2431 - STR Text: حمل (Confidence: 0.57), PaddleOCR Text: ‮جميل (Confidence: 0.87), Translation: Beau
+Frame 2461 - STR Text: n (Confidence: 0.30), PaddleOCR Text:  (Confidence: 0.00), Translation: beau
+Frame 2491 - STR Text: yone (Confidence: 0.33), PaddleOCR Text:  (Confidence: 0.00), Translation: beau
+Frame 2521 - STR Text: loney (Confidence: 0.15), PaddleOCR Text:  (Confidence: 0.00), Translation: beau
+Frame 2551 - STR Text: lopnat (Confidence: 0.35), PaddleOCR Text: OONE (Confidence: 0.80), Translation: OONE
+Frame 2581 - STR Text: 1900 (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: 1900
+Frame 2611 - STR Text: il (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 2641 - STR Text: .n2 (Confidence: 0.16), PaddleOCR Text: OH? (Confidence: 0.74), Translation: n OH?
+Frame 2671 - STR Text: om' (Confidence: 0.34), PaddleOCR Text: tH? (Confidence: 0.75), Translation: Quoi ?
+Frame 2701 - STR Text: 16% (Confidence: 0.43), PaddleOCR Text:  (Confidence: 0.00), Translation: e
+Frame 2731 - STR Text: lone (Confidence: 0.86), PaddleOCR Text:  (Confidence: 0.00), Translation: solitaire
+Frame 2761 - STR Text: aponei (Confidence: 0.36), PaddleOCR Text:  (Confidence: 0.00), Translation: "우을Y"
+Frame 2791 - STR Text: esonel (Confidence: 0.40), PaddleOCR Text:  (Confidence: 0.00), Translation: Je t'aime
+Frame 2821 - STR Text: spone (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: éponge
+Frame 2851 - STR Text: lonel (Confidence: 0.36), PaddleOCR Text: LOONE (Confidence: 0.97), Translation: Lune
+Frame 2881 - STR Text: lone (Confidence: 1.00), PaddleOCR Text: LOONE (Confidence: 0.95), Translation: solitaire
+Frame 2911 - STR Text: cnet (Confidence: 0.10), PaddleOCR Text: ON (Confidence: 0.68), Translation: Activé
+Frame 2941 - STR Text: lonet (Confidence: 0.99), PaddleOCR Text: LOONE (Confidence: 0.91), Translation: solitaire
+Frame 2971 - STR Text: lone (Confidence: 0.43), PaddleOCR Text: LOONES (Confidence: 0.86), Translation: Lunes
+Frame 3001 - STR Text: lone (Confidence: 1.00), PaddleOCR Text: LOONES (Confidence: 0.88), Translation: solitaire
+Frame 3031 - STR Text: loonie (Confidence: 0.92), PaddleOCR Text: LOONEY (Confidence: 0.87), Translation: dollar canadien
+Frame 3061 - STR Text: lone (Confidence: 0.98), PaddleOCR Text: LOONES (Confidence: 0.86), Translation: solitaire
+Frame 3091 - STR Text: lone (Confidence: 0.98), PaddleOCR Text: LOONEY (Confidence: 0.86), Translation: solitaire
+Frame 3121 - STR Text: loone (Confidence: 0.52), PaddleOCR Text: LOONEY (Confidence: 0.87), Translation: Fou
+Frame 3151 - STR Text: lone (Confidence: 0.99), PaddleOCR Text: LOONEY (Confidence: 0.87), Translation: solitaire
+Frame 3181 - STR Text: lone (Confidence: 1.00), PaddleOCR Text: LOONEY (Confidence: 0.83), Translation: solitaire
+Frame 3211 - STR Text: oone (Confidence: 0.83), PaddleOCR Text: LOONEY (Confidence: 0.88), Translation: Fou
+Frame 3271 - STR Text: lo (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 3301 - STR Text: loney (Confidence: 0.58), PaddleOCR Text: ONNET (Confidence: 0.57), Translation: solitaire
+Frame 3331 - STR Text: भवघ (Confidence: 0.31), PaddleOCR Text:  (Confidence: 0.00), Translation: Je suis P?h
+Frame 3361 - STR Text: un3 (Confidence: 0.24), PaddleOCR Text:  (Confidence: 0.00), Translation: sv
+Frame 3391 - STR Text: pone (Confidence: 0.67), PaddleOCR Text: LDONE (Confidence: 0.86), Translation: Fini
+Frame 3421 - STR Text: loney (Confidence: 0.92), PaddleOCR Text: FINNET (Confidence: 0.51), Translation: solitaire
+Frame 3451 - STR Text: loney (Confidence: 0.88), PaddleOCR Text: LOONES (Confidence: 0.93), Translation: Lunes
+Frame 3481 - STR Text: lone (Confidence: 0.86), PaddleOCR Text: LOONES (Confidence: 0.88), Translation: Lunes
+Frame 3511 - STR Text: done (Confidence: 0.97), PaddleOCR Text: LOONES (Confidence: 0.83), Translation: fait
+Frame 3541 - STR Text: lone (Confidence: 0.99), PaddleOCR Text: LOONEY (Confidence: 0.88), Translation: solitaire
+Frame 3571 - STR Text: done (Confidence: 0.91), PaddleOCR Text: FINOOT (Confidence: 0.65), Translation: fait
+Frame 3601 - STR Text: lone (Confidence: 0.96), PaddleOCR Text: FINOOZ (Confidence: 0.72), Translation: solitaire
+Frame 3631 - STR Text: lone (Confidence: 0.91), PaddleOCR Text: LOONES (Confidence: 0.89), Translation: solitaire
+Frame 3661 - STR Text: done (Confidence: 0.60), PaddleOCR Text: LOONE (Confidence: 0.86), Translation: Lune
+Frame 3691 - STR Text: lone (Confidence: 1.00), PaddleOCR Text: LOONEY (Confidence: 0.87), Translation: solitaire
+Frame 3721 - STR Text: lone (Confidence: 0.99), PaddleOCR Text: LOONEY (Confidence: 0.87), Translation: solitaire
+Frame 3751 - STR Text: 10 (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00), Translation: 10
+Frame 3781 - STR Text: ecole (Confidence: 0.98), PaddleOCR Text: ECOLE (Confidence: 0.99), Translation: École
+Frame 3811 - STR Text: ecole (Confidence: 1.00), PaddleOCR Text: ECOLE (Confidence: 1.00), Translation: école
+Frame 3871 - STR Text: scye (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: Épaule
+Frame 4051 - STR Text: pave (Confidence: 0.53), PaddleOCR Text:  (Confidence: 0.00), Translation: paver
+Frame 4111 - STR Text: or (Confidence: 0.61), PaddleOCR Text:  (Confidence: 0.00), Translation: ou
+Frame 4141 - STR Text: cove (Confidence: 0.78), PaddleOCR Text:  (Confidence: 0.00), Translation: crique
+Frame 4201 - STR Text: pov (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: point de vue
+Frame 4351 - STR Text: pex (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00), Translation: pex
+Frame 4441 - STR Text: ore (Confidence: 0.61), PaddleOCR Text:  (Confidence: 0.00), Translation: minerai
+Frame 4501 - STR Text: pex (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: pex
+Frame 4591 - STR Text: pex (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: pex
+Frame 4621 - STR Text: pex (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00), Translation: pex
+Frame 4681 - STR Text: pey (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: pied
+Frame 4801 - STR Text: pov (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00), Translation: point de vue
+Frame 4831 - STR Text: 0% (Confidence: 0.76), PaddleOCR Text:  (Confidence: 0.00), Translation: 0%
+Frame 4891 - STR Text: on (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: sur
+Frame 4951 - STR Text: on (Confidence: 0.92), PaddleOCR Text:  (Confidence: 0.00), Translation: sur
+Frame 5221 - STR Text: oce (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: mer
+Frame 5281 - STR Text: dona (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: dame
+Frame 5371 - STR Text: done (Confidence: 0.98), PaddleOCR Text: 97 (Confidence: 0.51), Translation: fait
+Frame 5401 - STR Text: deng (Confidence: 0.74), PaddleOCR Text: 7 (Confidence: 0.81), Translation: 7
+Frame 5461 - STR Text: den (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: la tanière
+Frame 5491 - STR Text: og (Confidence: 0.72), PaddleOCR Text:  (Confidence: 0.00), Translation: et
+Frame 5941 - STR Text: 中 (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00), Translation: Milieu
+Frame 5971 - STR Text: s (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: s
+Frame 6031 - STR Text: s (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: s
+Frame 6181 - STR Text: e (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: e
+Frame 6211 - STR Text: psm (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: psm
+Frame 6241 - STR Text: p (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: p
+Frame 6301 - STR Text: poto (Confidence: 0.05), PaddleOCR Text: ERK (Confidence: 0.58), Translation: ERK
+Frame 6331 - STR Text: jola (Confidence: 0.37), PaddleOCR Text:  (Confidence: 0.00), Translation: ERK
+Frame 6361 - STR Text: tunec (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: accord
+Frame 6391 - STR Text: tune (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: accorder
+Frame 6421 - STR Text: touniey (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00), Translation: touniey
+Frame 6721 - STR Text: la (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: la
+Frame 6751 - STR Text: i (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: je
+Frame 6811 - STR Text: t (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 7021 - STR Text: hien (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00), Translation: hien
+Frame 7051 - STR Text: one (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: un
+Frame 7081 - STR Text: moner (Confidence: 0.39), PaddleOCR Text:  (Confidence: 0.00), Translation: 1
+Frame 7141 - STR Text: oner (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: l'obligé
+Frame 7231 - STR Text: tunes (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 7261 - STR Text: fores (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: Forêt
+Frame 7291 - STR Text: tuate (Confidence: 0.34), PaddleOCR Text:  (Confidence: 0.00), Translation: Lune
+Frame 7321 - STR Text: tua (Confidence: 0.18), PaddleOCR Text:  (Confidence: 0.00), Translation: Lune
+Frame 7351 - STR Text: tuit (Confidence: 0.19), PaddleOCR Text:  (Confidence: 0.00), Translation: Lune
+Frame 7381 - STR Text: tula (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: balance
+Frame 7411 - STR Text: tua (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: toi
+Frame 7441 - STR Text: iut (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: institut
+Frame 7501 - STR Text: fene (Confidence: 0.32), PaddleOCR Text:  (Confidence: 0.00), Translation: w
+Frame 7531 - STR Text: ine (Confidence: 0.36), PaddleOCR Text:  (Confidence: 0.00), Translation: o
+Frame 7591 - STR Text: tue (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: mardi
+Frame 7651 - STR Text: tures (Confidence: 0.88), PaddleOCR Text: MES (Confidence: 0.70), Translation: tgote tures
+Frame 7681 - STR Text: tutes (Confidence: 0.45), PaddleOCR Text: NES (Confidence: 0.66), Translation: NES
+Frame 7711 - STR Text: tunes (Confidence: 0.87), PaddleOCR Text: TONES (Confidence: 0.83), Translation: mélodies lgote
+Frame 7741 - STR Text: tues (Confidence: 0.99), PaddleOCR Text: FS (Confidence: 0.75), Translation: tue le produit
+Frame 7771 - STR Text: tues (Confidence: 0.96), PaddleOCR Text: NES (Confidence: 0.84), Translation: mar
+Frame 7801 - STR Text: liva (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00), Translation: liva
+Frame 8071 - STR Text: tunes (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 8101 - STR Text: tione (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: tione
+Frame 8281 - STR Text: co (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: avec
+Frame 8311 - STR Text: co (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: avec
+Frame 8371 - STR Text: cofel (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00), Translation: café
+Frame 8431 - STR Text: co (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: avec
+Frame 8581 - STR Text: y (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00), Translation: y
+Frame 8611 - STR Text: t (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 8671 - STR Text: che (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: coffre
+Frame 8821 - STR Text: t (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 8881 - STR Text: t (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 9151 - STR Text: lo (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 9691 - STR Text: 12 (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: 12
+Frame 9751 - STR Text: oフiff (Confidence: 0.20), PaddleOCR Text: 9 (Confidence: 0.56), Translation: 9
+Frame 9781 - STR Text: 190 (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00), Translation: Cent quatre-vingt-dix
+Frame 9811 - STR Text: tunes (Confidence: 0.65), PaddleOCR Text: TIONES (Confidence: 0.82), Translation: lunes TONNES
+Frame 9841 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.93), Translation: Looney Tunes
+Frame 9871 - STR Text: tunc (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: alors
+Frame 11761 - STR Text: 156 (Confidence: 0.26), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 11791 - STR Text: pone (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00), Translation: met
+Frame 11821 - STR Text: e (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00), Translation: e
+Frame 11851 - STR Text: famille (Confidence: 1.00), PaddleOCR Text: FAMILLE (Confidence: 1.00), Translation: famille
+Frame 11881 - STR Text: tures (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: tures
+Frame 11911 - STR Text: tumes (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: tume
+Frame 11941 - STR Text: tume (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: nous
+Frame 11971 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 12001 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 12061 - STR Text: はし (Confidence: 0.66), PaddleOCR Text: 家庭 (Confidence: 1.00), Translation: Famille
+Frame 12091 - STR Text: はた (Confidence: 0.33), PaddleOCR Text: 家庭 (Confidence: 1.00), Translation: Famille
+Frame 12121 - STR Text: suric (Confidence: 0.10), PaddleOCR Text:  (Confidence: 0.00), Translation: déjanté
+Frame 12151 - STR Text: surance (Confidence: 0.48), PaddleOCR Text:  (Confidence: 0.00), Translation: déjanté
+Frame 12181 - STR Text: che (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: piastre
+Frame 12211 - STR Text: sruince (Confidence: 0.41), PaddleOCR Text:  (Confidence: 0.00), Translation: Fou
+Frame 12241 - STR Text: suricy (Confidence: 0.13), PaddleOCR Text:  (Confidence: 0.00), Translation: déjanté
+Frame 12271 - STR Text: looney (Confidence: 0.78), PaddleOCR Text: LONEY (Confidence: 0.98), Translation: Seul
+Frame 1 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 61 - STR Text: tigya (Confidence: 0.50), PaddleOCR Text: TNES (Confidence: 0.87), Translation: TNES
+Frame 91 - STR Text: tigyay (Confidence: 0.18), PaddleOCR Text: VE (Confidence: 0.94), Translation: VE
+Frame 121 - STR Text: thoye (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: thoye
+Frame 181 - STR Text: tigye (Confidence: 0.74), PaddleOCR Text:  (Confidence: 0.00), Translation: tigye
+Frame 211 - STR Text: hove (Confidence: 0.86), PaddleOCR Text:  (Confidence: 0.00), Translation: Se dresser
+Frame 241 - STR Text: tune (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: accorder
+Frame 271 - STR Text: tone (Confidence: 0.36), PaddleOCR Text: NEI (Confidence: 0.80), Translation: NEI
+Frame 301 - STR Text: tuns (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: tonneaux
+Frame 331 - STR Text: tones (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: tons
+Frame 391 - STR Text: toneat (Confidence: 0.10), PaddleOCR Text: NES (Confidence: 0.86), Translation: NES
+Frame 361 - STR Text: m (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: m
+Frame 151 - STR Text: don (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00), Translation: donner
+Frame 391 - STR Text: poney (Confidence: 0.85), PaddleOCR Text:  (Confidence: 0.00), Translation: poney
+Frame 31 - STR Text: oney (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00), Translation: l'argent
+Frame 61 - STR Text: choco (Confidence: 1.00), PaddleOCR Text: CHOCI (Confidence: 0.93), Translation: chocolat d'arbre
+Frame 91 - STR Text: tey (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: p tey
+Frame 121 - STR Text: lukelle (Confidence: 0.75), PaddleOCR Text: TURELLE (Confidence: 1.00), Translation: sur
+Frame 151 - STR Text: 9oi (Confidence: 0.10), PaddleOCR Text:  (Confidence: 0.00), Translation: Naturelle
+Frame 181 - STR Text: loo (Confidence: 0.48), PaddleOCR Text: LOO (Confidence: 0.79), Translation: WC
+Frame 211 - STR Text: loon (Confidence: 0.45), PaddleOCR Text: LON (Confidence: 0.93), Translation: Londres
+Frame 241 - STR Text: it. (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: il
+Frame 271 - STR Text: it. (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: Fais-le.
+Frame 301 - STR Text: ney (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: nez
+Frame 331 - STR Text: it (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: il
+Frame 361 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 391 - STR Text: tones (Confidence: 0.63), PaddleOCR Text: DNES (Confidence: 0.72), Translation: Aujourd'hui
+Frame 421 - STR Text: tooney (Confidence: 0.97), PaddleOCR Text: ONEY (Confidence: 0.99), Translation: ONEY
+Frame 451 - STR Text: - (Confidence: 0.89), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 481 - STR Text: zune (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00), Translation: Zune
+Frame 601 - STR Text: touey (Confidence: 0.13), PaddleOCR Text:  (Confidence: 0.00), Translation: d
+Frame 631 - STR Text: tung (Confidence: 0.37), PaddleOCR Text:  (Confidence: 0.00), Translation: Fou
+Frame 661 - STR Text: tur (Confidence: 0.89), PaddleOCR Text:  (Confidence: 0.00), Translation: Tour
+Frame 751 - STR Text: すす (Confidence: 0.47), PaddleOCR Text: 家庭 (Confidence: 1.00), Translation: Famille
+Frame 871 - STR Text: mearixuxi (Confidence: 0.00), PaddleOCR Text:  (Confidence: 0.00), Translation: malade
+Frame 901 - STR Text: elidentfolith (Confidence: 0.00), PaddleOCR Text:  (Confidence: 0.00), Translation: dattt
+Frame 931 - STR Text: hidares-sum (Confidence: 0.12), PaddleOCR Text:  (Confidence: 0.00), Translation: six
+Frame 961 - STR Text: medares-aum (Confidence: 0.01), PaddleOCR Text:  (Confidence: 0.00), Translation: alt
+Frame 991 - STR Text: aledates-fuir (Confidence: 0.02), PaddleOCR Text:  (Confidence: 0.00), Translation: Chapeau
+Frame 1021 - STR Text: parbartes-suig (Confidence: 0.00), PaddleOCR Text:  (Confidence: 0.00), Translation: latto
+Frame 1051 - STR Text: 4 (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: 4
+Frame 1081 - STR Text: " (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: ""
+Frame 1111 - STR Text: 10 (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: 10
+Frame 1141 - STR Text: 1 (Confidence: 0.66), PaddleOCR Text:  (Confidence: 0.00), Translation: 1
+Frame 1171 - STR Text: lo (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 1201 - STR Text: आय:আর (Confidence: 0.14), PaddleOCR Text: Jo? (Confidence: 0.81), Translation: Qui ?
+Frame 1231 - STR Text: 我们的 (Confidence: 0.45), PaddleOCR Text: 3Ticquf (Confidence: 0.57), Translation: 3Ticquf
+Frame 1261 - STR Text: 21 (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: 21
+Frame 1291 - STR Text: midtauin (Confidence: 0.06), PaddleOCR Text:  (Confidence: 0.00), Translation: Bâtiment
+Frame 1891 - STR Text: l (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: l
+Frame 2371 - STR Text: 2 (Confidence: 0.72), PaddleOCR Text:  (Confidence: 0.00), Translation: 2
+Frame 2521 - STR Text: भवन (Confidence: 0.69), PaddleOCR Text: ७.h (Confidence: 0.56), Translation: Bâtiment
+Frame 2551 - STR Text: भवन (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: Bâtiment
+Frame 2641 - STR Text: 사랑해 (Confidence: 0.89), PaddleOCR Text: 우러Y (Confidence: 0.74), Translation: Je t'aime
+Frame 2731 - STR Text: 하h2 (Confidence: 0.67), PaddleOCR Text: 해? (Confidence: 1.00), Translation: Quoi ?
+Frame 2761 - STR Text: di3 (Confidence: 0.36), PaddleOCR Text: "H? (Confidence: 0.67), Translation: "?"
+Frame 2791 - STR Text: loo (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: toilettes
+Frame 2821 - STR Text: lo (Confidence: 1.00), PaddleOCR Text: LO (Confidence: 0.79), Translation: le
+Frame 2851 - STR Text: حمسل (Confidence: 0.26), PaddleOCR Text: ‮جميل (Confidence: 0.99), Translation: Beau
+Frame 2881 - STR Text: مصل (Confidence: 0.31), PaddleOCR Text: ‮جميل (Confidence: 0.85), Translation: Beau
+Frame 2911 - STR Text: loonl (Confidence: 0.51), PaddleOCR Text: LOONE (Confidence: 0.90), Translation: Lune
+Frame 5281 - STR Text: i (Confidence: 0.26), PaddleOCR Text:  (Confidence: 0.00), Translation: - ،
+Frame 5941 - STR Text: 1 (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: 10
+Frame 8671 - STR Text: ، (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: i
+Frame 8701 - STR Text: l (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: t l
+Frame 8881 - STR Text: 19 (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: 19
+Frame 11011 - STR Text: mines (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: mines
+Frame 11041 - STR Text: krebserregend (Confidence: 1.00), PaddleOCR Text: krebserregend (Confidence: 0.99), Translation: cancérogène
+Frame 11071 - STR Text: krebserregend (Confidence: 1.00), PaddleOCR Text: krebserregend (Confidence: 1.00), Translation: cancérogène
+Frame 11101 - STR Text: tohavro (Confidence: 0.72), PaddleOCR Text: Pbakrs (Confidence: 0.78), Translation: Boulanger
+Frame 11131 - STR Text: rauchon (Confidence: 1.00), PaddleOCR Text: Rauchen (Confidence: 0.99), Translation: est
+Frame 11161 - STR Text: rauchen (Confidence: 1.00), PaddleOCR Text: Rauchen (Confidence: 0.99), Translation: fumer est
+Frame 11191 - STR Text: todlich (Confidence: 1.00), PaddleOCR Text: todlich (Confidence: 1.00), Translation: Fumer est mortel
+Frame 11221 - STR Text: gnes (Confidence: 0.74), PaddleOCR Text:  (Confidence: 0.00), Translation: agneau
+Frame 11251 - STR Text: i (Confidence: 0.34), PaddleOCR Text:  (Confidence: 0.00), Translation: o
+Frame 11311 - STR Text: tune (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00), Translation: accorder
+Frame 11341 - STR Text: looney (Confidence: 1.00), PaddleOCR Text: LOONEY (Confidence: 0.98), Translation: déjanté
+Frame 11371 - STR Text: looney (Confidence: 1.00), PaddleOCR Text: LOONET (Confidence: 0.78), Translation: déjanté
+Frame 11401 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 11431 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: Looney Tunes
+Frame 11461 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.85), Translation: Looney Tunes
+Frame 11521 - STR Text: tunes (Confidence: 0.70), PaddleOCR Text: TONES (Confidence: 0.92), Translation: TONES
+Frame 11551 - STR Text: nes (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: nous
+Frame 12211 - STR Text: loves (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: aime
+Frame 12241 - STR Text: unes (Confidence: 1.00), PaddleOCR Text: INES (Confidence: 0.88), Translation: unes
+Frame 12331 - STR Text: 18 (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: 18
+Frame 12361 - STR Text: va (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: va
+Frame 12391 - STR Text: tunes (Confidence: 0.98), PaddleOCR Text: TUNES (Confidence: 0.89), Translation: mélodies
+Frame 12421 - STR Text: tinesy (Confidence: 0.41), PaddleOCR Text: LOONEY (Confidence: 0.97), Translation: Fou
+Frame 12451 - STR Text: tinesy (Confidence: 0.21), PaddleOCR Text: LOONEY (Confidence: 0.96), Translation: Fou
+Frame 12481 - STR Text: sonesy (Confidence: 0.32), PaddleOCR Text: LOONEY (Confidence: 0.95), Translation: Fou
+Frame 12511 - STR Text: unes (Confidence: 0.38), PaddleOCR Text: UNES (Confidence: 0.98), Translation: looney UNES
+Frame 13351 - STR Text: ras (Confidence: 0.27), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 13381 - STR Text: iv (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: IV
+Frame 13441 - STR Text: vi (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: nous
+Frame 13471 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 13501 - STR Text: de (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: sur le
+Frame 13531 - STR Text: ovi (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: les œufs
+Frame 13561 - STR Text: ine (Confidence: 0.47), PaddleOCR Text:  (Confidence: 0.00), Translation: UN
+Frame 13591 - STR Text: ties (Confidence: 0.24), PaddleOCR Text: JUNE! (Confidence: 0.77), Translation: JUIN !
+Frame 13621 - STR Text: lines (Confidence: 0.41), PaddleOCR Text: OWE (Confidence: 0.76), Translation: DOIT
+Frame 13651 - STR Text: lines (Confidence: 0.55), PaddleOCR Text: ONE (Confidence: 0.85), Translation: UN
+Frame 13681 - STR Text: zioneo (Confidence: 0.76), PaddleOCR Text: JNE! (Confidence: 0.67), Translation: zioneo
+Frame 13711 - STR Text: itee (Confidence: 0.07), PaddleOCR Text: - (Confidence: 0.55), Translation: -
+Frame 13741 - STR Text: imes (Confidence: 0.61), PaddleOCR Text: ONE (Confidence: 0.86), Translation: UN
+Frame 13771 - STR Text: fines (Confidence: 0.76), PaddleOCR Text:  (Confidence: 0.00), Translation: amendes
+Frame 21001 - STR Text: oフi (Confidence: 0.24), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 21031 - STR Text: tines (Confidence: 0.81), PaddleOCR Text: TONES (Confidence: 0.88), Translation: TONES
+Frame 21061 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUUEES (Confidence: 0.73), Translation: Looney Tunes
+Frame 21121 - STR Text: 1 (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00), Translation: 1
+Frame 21151 - STR Text: lmming (Confidence: 0.31), PaddleOCR Text: IMOMIM (Confidence: 0.68), Translation: IMOMIM
+Frame 21211 - STR Text: 12 (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00), Translation: 12
+Frame 21271 - STR Text: 成 (Confidence: 0.74), PaddleOCR Text: 유 (Confidence: 0.64), Translation: Devenir
+Frame 21361 - STR Text: 15 (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00), Translation: 15
+Frame 21391 - STR Text: 10 (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: Choisissez 10
+Frame 21421 - STR Text: に (Confidence: 0.49), PaddleOCR Text:  (Confidence: 0.00), Translation: être
+Frame 21481 - STR Text: at (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00), Translation: à
+Frame 21511 - STR Text: at (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: à
+Frame 21571 - STR Text: at (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: à
+Frame 23161 - STR Text: hom (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: foyer
+Frame 23191 - STR Text: c (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: c c
+Frame 25801 - STR Text: ، (Confidence: 0.78), PaddleOCR Text:  (Confidence: 0.00), Translation: ،
+Frame 25831 - STR Text: t (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00), Translation: t
+Frame 25861 - STR Text: home (Confidence: 0.98), PaddleOCR Text: home (Confidence: 0.99), Translation: domicile
+Frame 25891 - STR Text: i (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: je
+Frame 25921 - STR Text: 6 (Confidence: 0.72), PaddleOCR Text:  (Confidence: 0.00), Translation: le 6
+Frame 25951 - STR Text: lines (Confidence: 0.44), PaddleOCR Text: LNES (Confidence: 0.78), Translation: Lignes
+Frame 25981 - STR Text: i (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: je
+Frame 26011 - STR Text: thip (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: thip
+Frame 26041 - STR Text: 0 (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: 0
+Frame 26071 - STR Text: tokno (Confidence: 0.07), PaddleOCR Text:  (Confidence: 0.00), Translation: "du lieu UKE"
+Frame 26101 - STR Text: d (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: "loonl d"
+Frame 26131 - STR Text: loaley (Confidence: 0.69), PaddleOCR Text:  (Confidence: 0.00), Translation: loyal
+Frame 26191 - STR Text: k (Confidence: 0.44), PaddleOCR Text:  (Confidence: 0.00), Translation: 00
+Frame 26221 - STR Text: venes (Confidence: 0.61), PaddleOCR Text:  (Confidence: 0.00), Translation: des veines
+Frame 26251 - STR Text: ignes (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: feux
+Frame 26281 - STR Text: mones (Confidence: 0.36), PaddleOCR Text: TONES (Confidence: 0.82), Translation: TONES
+Frame 26371 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.95), Translation: mélodies d'amour
+Frame 26401 - STR Text: ies (Confidence: 0.64), PaddleOCR Text: ES (Confidence: 0.99), Translation: Chéri(e)
+Frame 26431 - STR Text: tenes (Confidence: 0.55), PaddleOCR Text: TUNES (Confidence: 0.97), Translation: mélodies loovey
+Frame 26461 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.95), Translation: mélodies
+Frame 26491 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.95), Translation: mélodies
+Frame 26521 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.89), Translation: Looney Tunes
+Frame 26551 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.98), Translation: mélodies
+Frame 26581 - STR Text: tunes (Confidence: 0.94), PaddleOCR Text: TUNES (Confidence: 0.96), Translation: lponey TUNES
+Frame 26611 - STR Text: tunes (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 26641 - STR Text: linter (Confidence: 0.11), PaddleOCR Text:  (Confidence: 0.00), Translation: Fou
+Frame 26671 - STR Text: c (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00), Translation: c
+Frame 26701 - STR Text: i (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00), Translation: je
+Frame 26731 - STR Text: l (Confidence: 0.82), PaddleOCR Text:  (Confidence: 0.00), Translation: l
+Frame 26761 - STR Text: r (Confidence: 0.84), PaddleOCR Text:  (Confidence: 0.00), Translation: looney r
+Frame 26791 - STR Text: chretra (Confidence: 0.06), PaddleOCR Text:  (Confidence: 0.00), Translation: déjanté
+Frame 1 - STR Text: wenes (Confidence: 0.83), PaddleOCR Text:  (Confidence: 0.00), Translation: mardi
+Frame 31 - STR Text: tenes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: as
+Frame 61 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 91 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 121 - STR Text: tunes (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: Looney Tunes
+Frame 151 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: Looney Tunes
+Frame 181 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.97), Translation: Looney Tunes
+Frame 211 - STR Text: is (Confidence: 0.31), PaddleOCR Text:  (Confidence: 0.00), Translation: 4i
+Frame 241 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: mélodies
+Frame 271 - STR Text: tones (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: tons
+Frame 301 - STR Text: tuney (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: accorde
+Frame 331 - STR Text: tures (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00), Translation: tures
+Frame 361 - STR Text: ture (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: vrai
+Frame 421 - STR Text: || (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00), Translation: ||
+Frame 451 - STR Text: 16 (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00), Translation: 16
+Frame 481 - STR Text: l (Confidence: 0.61), PaddleOCR Text:  (Confidence: 0.00), Translation: l
+Frame 511 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUNES (Confidence: 0.91), Translation: mélodies
+Frame 541 - STR Text: es (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: a es
+Frame 571 - STR Text: ss (Confidence: 0.47), PaddleOCR Text:  (Confidence: 0.00), Translation: 14
+Frame 601 - STR Text: 14 (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: 14
+Frame 631 - STR Text: tot (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00), Translation: mort
+Frame 661 - STR Text: in (Confidence: 0.55), PaddleOCR Text:  (Confidence: 0.00), Translation: dans
+Frame 691 - STR Text: nti (Confidence: 0.25), PaddleOCR Text:  (Confidence: 0.00), Translation: huart
+Frame 721 - STR Text: #if (Confidence: 0.33), PaddleOCR Text:  (Confidence: 0.00), Translation: choco
+Frame 751 - STR Text: tu (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: le toi
+Frame 811 - STR Text: toine (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: toine
+Frame 841 - STR Text: tune (Confidence: 1.00), PaddleOCR Text: TONES (Confidence: 0.96), Translation: mélodie de canard
+Frame 871 - STR Text: tinesc (Confidence: 0.35), PaddleOCR Text: TUNES (Confidence: 0.90), Translation: Air
+Frame 901 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: FS (Confidence: 0.91), Translation: Looney Tunes
+Frame 931 - STR Text: tunes (Confidence: 0.86), PaddleOCR Text: TUNES (Confidence: 0.95), Translation: Mélodies
+Frame 961 - STR Text: tunes (Confidence: 1.00), PaddleOCR Text: TUENES (Confidence: 0.52), Translation: Looney Tunes
+Frame 991 - STR Text: ne (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: ne
+Frame 1261 - STR Text: vo (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: on
+Frame 1321 - STR Text: lo (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 4531 - STR Text: wassin (Confidence: 0.99), PaddleOCR Text: Nassim (Confidence: 0.99), Translation: Nassim
+Frame 4561 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 0.98), Translation: Wassim
+Frame 4591 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 4621 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 4651 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 4681 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 4711 - STR Text: choco (Confidence: 1.00), PaddleOCR Text: CHOCO (Confidence: 1.00), Translation: chocolat
+Frame 4741 - STR Text: cacho (Confidence: 0.09), PaddleOCR Text:  (Confidence: 0.00), Translation: r
+Frame 4771 - STR Text: it (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: il
+Frame 4801 - STR Text: it. (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: il
+Frame 4831 - STR Text: tahakrauch (Confidence: 0.95), PaddleOCR Text: Tabakrauch (Confidence: 0.99), Translation: Fumée de tabac
+Frame 4861 - STR Text: siche (Confidence: 0.79), PaddleOCR Text:  (Confidence: 0.00), Translation: soi
+Frame 5911 - STR Text: ale (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00), Translation: bière
+Frame 5941 - STR Text: 사랑해 (Confidence: 0.99), PaddleOCR Text: H우Y (Confidence: 0.95), Translation: Je t'aime
+Frame 5971 - STR Text: 사랑해 (Confidence: 0.97), PaddleOCR Text: H워을Y (Confidence: 0.79), Translation: Je t'aime
+Frame 6001 - STR Text: .h? (Confidence: 0.56), PaddleOCR Text: .H? (Confidence: 0.71), Translation: ?
+Frame 6031 - STR Text: @h= (Confidence: 0.04), PaddleOCR Text: tH? (Confidence: 0.75), Translation: Qu'est-ce que c'est ?
+Frame 6061 - STR Text: .h? (Confidence: 0.39), PaddleOCR Text: OH? (Confidence: 0.76), Translation: Et alors ?
+Frame 6091 - STR Text: haus (Confidence: 1.00), PaddleOCR Text: Haus (Confidence: 1.00), Translation: maison
+Frame 6121 - STR Text: alas (Confidence: 0.09), PaddleOCR Text: aus (Confidence: 1.00), Translation: de
+Frame 6151 - STR Text: are (Confidence: 0.46), PaddleOCR Text:  (Confidence: 0.00), Translation: école dangereuse
+Frame 6181 - STR Text: 成n (Confidence: 0.08), PaddleOCR Text:  (Confidence: 0.00), Translation: école
+Frame 6211 - STR Text: gusto (Confidence: 1.00), PaddleOCR Text: GUSTO (Confidence: 0.99), Translation: plaisir
+Frame 6241 - STR Text: gusto (Confidence: 1.00), PaddleOCR Text: GUSTO (Confidence: 0.99), Translation: plaisir
+Frame 6271 - STR Text: حمدل (Confidence: 0.31), PaddleOCR Text: ‮حميل (Confidence: 0.83), Translation: Téléchargement
+Frame 6301 - STR Text: حمعل (Confidence: 0.28), PaddleOCR Text: ‮جميل (Confidence: 0.87), Translation: Beau
+Frame 6331 - STR Text: دمل (Confidence: 0.44), PaddleOCR Text: ‮جميل (Confidence: 0.99), Translation: Beau
+Frame 6361 - STR Text: ecole (Confidence: 1.00), PaddleOCR Text: ECOLE (Confidence: 1.00), Translation: école
+Frame 6391 - STR Text: ecole (Confidence: 1.00), PaddleOCR Text: ECOLE (Confidence: 0.99), Translation: école
+Frame 6421 - STR Text: あ (Confidence: 0.16), PaddleOCR Text: 家庭 (Confidence: 1.00), Translation: Famille
+Frame 6511 - STR Text: भवन (Confidence: 0.91), PaddleOCR Text:  (Confidence: 0.00), Translation: Bâtiment
+Frame 6541 - STR Text: - (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: s -
+Frame 6571 - STR Text: l (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: l i
+Frame 6601 - STR Text: n (Confidence: 0.30), PaddleOCR Text:  (Confidence: 0.00), Translation: f
+Frame 6661 - STR Text: te (Confidence: 0.50), PaddleOCR Text:  (Confidence: 0.00), Translation: toi
+Frame 6691 - STR Text: 07 (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: sorcier de 07
+Frame 31 - STR Text: vevinycrk (Confidence: 0.10), PaddleOCR Text: CWYOAK (Confidence: 0.70), Translation: CWYOAK
+Frame 61 - STR Text: ncwyink (Confidence: 0.19), PaddleOCR Text: YnRK (Confidence: 0.52), Translation: YnRK
+Frame 91 - STR Text: i (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00), Translation: Je
+Frame 121 - STR Text: icood (Confidence: 0.45), PaddleOCR Text:  (Confidence: 0.00), Translation: VEWYIJRK sports
+Frame 151 - STR Text: storti (Confidence: 0.85), PaddleOCR Text:  (Confidence: 0.00), Translation: tordus
+Frame 181 - STR Text: sporli (Confidence: 0.42), PaddleOCR Text:  (Confidence: 0.00), Translation: New York
+Frame 211 - STR Text: che (Confidence: 0.36), PaddleOCR Text:  (Confidence: 0.00), Translation: h
+Frame 241 - STR Text: in (Confidence: 0.33), PaddleOCR Text:  (Confidence: 0.00), Translation: Je t'aime
+Frame 271 - STR Text: cooqu (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00), Translation: cuisiner
+Frame 331 - STR Text: cood' (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00), Translation: cood'
+Frame 361 - STR Text: nod (Confidence: 0.78), PaddleOCR Text:  (Confidence: 0.00), Translation: hoche
+Frame 391 - STR Text: ade (Confidence: 0.48), PaddleOCR Text:  (Confidence: 0.00), Translation: maison
+Frame 421 - STR Text: aods (Confidence: 0.40), PaddleOCR Text:  (Confidence: 0.00), Translation: beau
+Frame 451 - STR Text: حمدل (Confidence: 0.38), PaddleOCR Text: ‮جميل (Confidence: 0.72), Translation: Beau
+Frame 571 - STR Text: - (Confidence: 0.73), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 631 - STR Text: ork (Confidence: 0.96), PaddleOCR Text: ORK (Confidence: 0.79), Translation: travail
+Frame 1 - STR Text: pi (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: 16:15:17 pi
+Frame 31 - STR Text: deo (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: 18 pieds de dieu
+Frame 61 - STR Text: for (Confidence: 0.45), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 91 - STR Text: s (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: s
+Frame 121 - STR Text: agenkarzi (Confidence: 0.78), PaddleOCR Text: ngenkarzi (Confidence: 0.99), Translation: numéro
+Frame 151 - STR Text: 10 (Confidence: 0.14), PaddleOCR Text:  (Confidence: 0.00), Translation: -
+Frame 181 - STR Text: onodi (Confidence: 0.33), PaddleOCR Text:  (Confidence: 0.00), Translation: Flux vidéo JroidCam
+Frame 211 - STR Text: 00001 (Confidence: 0.32), PaddleOCR Text:  (Confidence: 0.00), Translation: 16h41
+Frame 241 - STR Text: 00001 (Confidence: 0.35), PaddleOCR Text:  (Confidence: 0.00), Translation: 19-nov-2024 16:17:51
+Frame 271 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 301 - STR Text: k (Confidence: 0.42), PaddleOCR Text:  (Confidence: 0.00), Translation: neige fraîche
+Frame 331 - STR Text: novobit (Confidence: 0.86), PaddleOCR Text: snovobit (Confidence: 0.95), Translation: neige fraîche
+Frame 361 - STR Text: novobit (Confidence: 0.56), PaddleOCR Text: snovobit (Confidence: 0.96), Translation: neige fraîche
+Frame 391 - STR Text: wassin (Confidence: 0.39), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 421 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 451 - STR Text: it. (Confidence: 1.00), PaddleOCR Text: it (Confidence: 0.98), Translation: il
+Frame 481 - STR Text: it. (Confidence: 1.00), PaddleOCR Text: it (Confidence: 0.97), Translation: il
+Frame 511 - STR Text: 15:51:09 (Confidence: 0.37), PaddleOCR Text:  (Confidence: 0.00), Translation: ph
+Frame 541 - STR Text: 12:51:11 (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: 12:51:11 ph
+Frame 571 - STR Text: pn (Confidence: 0.78), PaddleOCR Text:  (Confidence: 0.00), Translation: 12:51:13 après-midi
+Frame 601 - STR Text: pn (Confidence: 0.90), PaddleOCR Text:  (Confidence: 0.00), Translation: 49 pn
+Frame 631 - STR Text: ph (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00), Translation: 12:51:51 ph
+Frame 661 - STR Text: くधく4 (Confidence: 0.05), PaddleOCR Text:  (Confidence: 0.00), Translation: 15:51:54 ph
+Frame 691 - STR Text: pn (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00), Translation: :56 pn
+Frame 721 - STR Text: 19-100--864 (Confidence: 0.02), PaddleOCR Text:  (Confidence: 0.00), Translation: 15h51m58
+Frame 751 - STR Text: ph (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: ph
+Frame 1 - STR Text: 6 (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: 6
+Frame 31 - STR Text: 16:38: (Confidence: 0.37), PaddleOCR Text:  (Confidence: 0.00), Translation: 54
+Frame 61 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 91 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 121 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 151 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 181 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 211 - STR Text: it. (Confidence: 1.00), PaddleOCR Text: it (Confidence: 0.93), Translation: il
+Frame 241 - STR Text: pi (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: 18 : 48 54 pi
+Frame 271 - STR Text: ph (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: 11: 48 56 ph
+Frame 301 - STR Text: pi (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00), Translation: 18:41 18 pieds
+Frame 331 - STR Text: pi (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: 19-nov avant 12:41 le pi
+Frame 361 - STR Text: 4e (Confidence: 0.48), PaddleOCR Text:  (Confidence: 0.00), Translation: ph
+Frame 391 - STR Text: ph (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00), Translation: 16:42:05 ph
+Frame 421 - STR Text: pi (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00), Translation: 87 pieds
+Frame 451 - STR Text: ph (Confidence: 0.50), PaddleOCR Text:  (Confidence: 0.00), Translation: 16:42:43 ph
+Frame 481 - STR Text: pi (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00), Translation: pi
+Frame 511 - STR Text: ph (Confidence: 0.62), PaddleOCR Text:  (Confidence: 0.00), Translation: 16:43:17 ph
+Frame 541 - STR Text: ph (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: 16:43:19 ph
+Frame 31 - STR Text: lviav (Confidence: 0.44), PaddleOCR Text: IVODV (Confidence: 0.70), Translation: IVODV
+Frame 61 - STR Text: v (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 91 - STR Text: ivrav (Confidence: 0.83), PaddleOCR Text: IVODN (Confidence: 0.61), Translation: I couldn't find any information on the word "ivrav" in the Slovenian language (sl).
+Frame 121 - STR Text: newyork (Confidence: 0.99), PaddleOCR Text: VEWYORK (Confidence: 0.94), Translation: New York
+Frame 151 - STR Text: c (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00), Translation: c
+Frame 181 - STR Text: che (Confidence: 0.22), PaddleOCR Text:  (Confidence: 0.00), Translation: p
+Frame 211 - STR Text: orto (Confidence: 0.32), PaddleOCR Text:  (Confidence: 0.00), Translation: p
+Frame 241 - STR Text: newyork (Confidence: 1.00), PaddleOCR Text: VEWYORK (Confidence: 0.95), Translation: New York
+Frame 271 - STR Text: newyork (Confidence: 1.00), PaddleOCR Text: VEWYORK (Confidence: 0.93), Translation: New York
+Frame 301 - STR Text: newyork (Confidence: 1.00), PaddleOCR Text: VEW YORK (Confidence: 0.88), Translation: New York
+Frame 331 - STR Text: newyork (Confidence: 1.00), PaddleOCR Text: EWYORK (Confidence: 0.98), Translation: New York
+Frame 361 - STR Text: newyork (Confidence: 1.00), PaddleOCR Text: VEW YORK (Confidence: 0.90), Translation: New York
+Frame 391 - STR Text: newyork (Confidence: 1.00), PaddleOCR Text: VEWYORK (Confidence: 0.92), Translation: New York
+Frame 421 - STR Text: newyork (Confidence: 1.00), PaddleOCR Text: VEW YORK (Confidence: 0.91), Translation: New York
+Frame 451 - STR Text: newyork (Confidence: 0.99), PaddleOCR Text: VEW YORK (Confidence: 0.88), Translation: New York
+Frame 1 - STR Text: pi (Confidence: 0.68), PaddleOCR Text:  (Confidence: 0.00), Translation: 15:57:55 pi
+Frame 31 - STR Text: ph (Confidence: 0.70), PaddleOCR Text:  (Confidence: 0.00), Translation: 15:57:56 ph
+Frame 61 - STR Text: it. (Confidence: 0.95), PaddleOCR Text: it. (Confidence: 0.82), Translation: il
+Frame 91 - STR Text: pi (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: pi
+Frame 121 - STR Text: pi (Confidence: 0.87), PaddleOCR Text:  (Confidence: 0.00), Translation: 18, 58 da8 pi
+Frame 151 - STR Text: pi (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00), Translation: 16 pieds
+Frame 181 - STR Text: pi (Confidence: 0.60), PaddleOCR Text:  (Confidence: 0.00), Translation: 11 pieds
+Frame 211 - STR Text: pi (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00), Translation: 15:58:35 pi
+Frame 241 - STR Text: pi (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00), Translation: pi
+Frame 271 - STR Text: 18. (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00), Translation: 19 nov 2024 18h58min55
+Frame 301 - STR Text: 19-nou-teca (Confidence: 0.10), PaddleOCR Text: 19-Nov-2024 (Confidence: 0.98), Translation: 19-nov-2024 18h58:57
+Frame 331 - STR Text: :14 (Confidence: 0.33), PaddleOCR Text:  (Confidence: 0.00), Translation: pn
+Frame 361 - STR Text: :25 (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00), Translation: 59 :25 
+
+or 
+
+59 :25
+Frame 391 - STR Text: 18. (Confidence: 0.36), PaddleOCR Text:  (Confidence: 0.00), Translation: 59,56 pn
+Frame 421 - STR Text: 19-nou-auca (Confidence: 0.19), PaddleOCR Text: 19-Nov-2024 (Confidence: 0.97), Translation: 59:51 pn
+Frame 451 - STR Text: 18. (Confidence: 0.64), PaddleOCR Text:  (Confidence: 0.00), Translation: 19-nov-2024 18h59'53
+Frame 481 - STR Text: एe (Confidence: 0.61), PaddleOCR Text:  (Confidence: 0.00), Translation: "Ép"
+Frame 511 - STR Text: :83 (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: 19-nov-2024 A1 A8 :83 pn
+Frame 541 - STR Text: ए8 (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: E8 48 pn
+Frame 571 - STR Text: :41 (Confidence: 0.77), PaddleOCR Text:  (Confidence: 0.00), Translation: 19-nov-2024 01:41
+Frame 601 - STR Text: e3 (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00), Translation: 19-nov-2024 g1 A1 e3 pn
+Frame 631 - STR Text: :24 (Confidence: 0.75), PaddleOCR Text:  (Confidence: 0.00), Translation: 19 nov 2024 A1 A1 :24 pn
+Frame 661 - STR Text: 63 (Confidence: 0.74), PaddleOCR Text:  (Confidence: 0.00), Translation: 63 pn
+Frame 691 - STR Text: 85 (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: 19-nov-2024 A1 Ae 85 pn
+Frame 721 - STR Text: 43 (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: 19-nov-2024 13h43
+Frame 751 - STR Text: 1 (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: ph 1
+Frame 1 - STR Text: 2 (Confidence: 0.60), PaddleOCR Text:  (Confidence: 0.00), Translation: 2
+Frame 31 - STR Text: 별. (Confidence: 0.36), PaddleOCR Text:  (Confidence: 0.00), Translation: eau
+Frame 61 - STR Text: 87 (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: 87 ph
+Frame 91 - STR Text: 68 (Confidence: 0.85), PaddleOCR Text:  (Confidence: 0.00), Translation: 68 ph
+Frame 1 - STR Text: ph (Confidence: 0.50), PaddleOCR Text:  (Confidence: 0.00), Translation: 17:53 ph
+Frame 31 - STR Text: ph (Confidence: 0.65), PaddleOCR Text:  (Confidence: 0.00), Translation: É1 :17:54 ph
+Frame 61 - STR Text: it (Confidence: 1.00), PaddleOCR Text: it (Confidence: 0.98), Translation: il
+Frame 1 - STR Text: pi (Confidence: 0.88), PaddleOCR Text:  (Confidence: 0.00), Translation: u1:19:43 pi
+Frame 31 - STR Text: 44 (Confidence: 0.81), PaddleOCR Text:  (Confidence: 0.00), Translation: 44 pn
+Frame 61 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 1.00), Translation: Wassim
+Frame 1 - STR Text: ph (Confidence: 0.71), PaddleOCR Text:  (Confidence: 0.00), Translation: É1 e3 le ph
+Frame 31 - STR Text: d (Confidence: 0.46), PaddleOCR Text:  (Confidence: 0.00), Translation: É1 '3:53 ph
+Frame 1 - STR Text: sports (Confidence: 1.00), PaddleOCR Text: Sports (Confidence: 0.99), Translation: sports
+Frame 31 - STR Text: icwyork (Confidence: 0.75), PaddleOCR Text: CW YORK (Confidence: 0.74), Translation: Travail
+Frame 91 - STR Text: v (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: v
+Frame 121 - STR Text: newyory (Confidence: 0.95), PaddleOCR Text: VEWYORK (Confidence: 0.83), Translation: New York
+Frame 151 - STR Text: newyork (Confidence: 0.99), PaddleOCR Text: VEW YORK (Confidence: 0.87), Translation: New York
+Frame 181 - STR Text: mewyork (Confidence: 0.55), PaddleOCR Text: VEW YORK (Confidence: 0.84), Translation: NEW YORK
+Frame 211 - STR Text: newyork (Confidence: 0.71), PaddleOCR Text: JFW YORK (Confidence: 0.80), Translation: New York
+Frame 241 - STR Text: newyork (Confidence: 0.57), PaddleOCR Text: VEW YORK (Confidence: 0.81), Translation: NEW YORK
+Frame 271 - STR Text: ifwyork (Confidence: 0.46), PaddleOCR Text: GW YORX (Confidence: 0.71), Translation: GW YORX
+Frame 331 - STR Text: ipwyork (Confidence: 0.51), PaddleOCR Text: JEW YORK (Confidence: 0.80), Translation: New York
+Frame 361 - STR Text: chvork (Confidence: 0.35), PaddleOCR Text: JEWYORK (Confidence: 0.88), Translation: New York
+Frame 391 - STR Text: ipwyork (Confidence: 0.81), PaddleOCR Text: VEW YORK (Confidence: 0.87), Translation: New York
+Frame 421 - STR Text: newyory (Confidence: 0.29), PaddleOCR Text: JEW YORK (Confidence: 0.79), Translation: NEW YORK
+Frame 1 - STR Text: 15: (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: être : 15 : 56 ph
+Frame 31 - STR Text: it. (Confidence: 1.00), PaddleOCR Text: it. (Confidence: 0.90), Translation: il
+Frame 61 - STR Text: 16:47 (Confidence: 0.83), PaddleOCR Text:  (Confidence: 0.00), Translation: 19-nov 2824 à 16h47
+Frame 91 - STR Text: pi (Confidence: 0.58), PaddleOCR Text:  (Confidence: 0.00), Translation: pi
+Frame 121 - STR Text: pi (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: ge : 17 16 pi
+Frame 151 - STR Text: pi (Confidence: 0.63), PaddleOCR Text:  (Confidence: 0.00), Translation: 46 pieds
+Frame 181 - STR Text: pi (Confidence: 0.56), PaddleOCR Text:  (Confidence: 0.00), Translation: Plus de 18 87 pi
+Frame 211 - STR Text: pi (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: Plus de 18 16 pi
+Frame 241 - STR Text: pi (Confidence: 0.54), PaddleOCR Text:  (Confidence: 0.00), Translation: Plus de 18 46 pi
+Frame 271 - STR Text: pi (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: Plus de 19 85 pi
+Frame 301 - STR Text: pi (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: Plus de 19 e3 pi
+Frame 1 - STR Text: 36:24 (Confidence: 0.84), PaddleOCR Text:  (Confidence: 0.00), Translation: ge : 36:24 pi
+Frame 31 - STR Text: pi (Confidence: 0.51), PaddleOCR Text:  (Confidence: 0.00), Translation: Plus de 3e 46 pi
+Frame 61 - STR Text: pi (Confidence: 0.52), PaddleOCR Text:  (Confidence: 0.00), Translation: ge : 33 85 pi
+Frame 91 - STR Text: wassim (Confidence: 1.00), PaddleOCR Text: Wassim (Confidence: 0.99), Translation: Wassim
+Frame 121 - STR Text: 48 (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: 48 pi
+Frame 151 - STR Text: 85 (Confidence: 0.78), PaddleOCR Text:  (Confidence: 0.00), Translation: 85 ph
+Frame 181 - STR Text: s (Confidence: 0.67), PaddleOCR Text:  (Confidence: 0.00), Translation: s
+Frame 211 - STR Text: 34:4 (Confidence: 0.96), PaddleOCR Text:  (Confidence: 0.00), Translation: Équation 34:4 pi
+Frame 241 - STR Text: m (Confidence: 1.00), PaddleOCR Text:  (Confidence: 0.00), Translation: Wassi m
+Frame 271 - STR Text: pi (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: 35 18 pi
+Frame 301 - STR Text: pi (Confidence: 0.85), PaddleOCR Text:  (Confidence: 0.00), Translation: 35:43 pi
+Frame 331 - STR Text: pi (Confidence: 0.94), PaddleOCR Text:  (Confidence: 0.00), Translation: 35 57 pi
+Frame 361 - STR Text: pi (Confidence: 0.97), PaddleOCR Text:  (Confidence: 0.00), Translation: 36 11 pi
+Frame 391 - STR Text: pi (Confidence: 0.93), PaddleOCR Text:  (Confidence: 0.00), Translation: Plus de 36 16 pi
+Frame 421 - STR Text: pi (Confidence: 0.95), PaddleOCR Text:  (Confidence: 0.00), Translation: 36:43 pi
+Frame 1 - STR Text: via (Confidence: 0.16), PaddleOCR Text:  (Confidence: 0.00), Translation: "EWYRK sp"
+Frame 31 - STR Text: cok (Confidence: 0.20), PaddleOCR Text:  (Confidence: 0.00), Translation: SWYORK sport
+Frame 61 - STR Text: ア (Confidence: 0.35), PaddleOCR Text:  (Confidence: 0.00), Translation: Plus
+Frame 91 - STR Text: shafi (Confidence: 0.20), PaddleOCR Text:  (Confidence: 0.00), Translation: p
+Frame 121 - STR Text: c (Confidence: 0.57), PaddleOCR Text:  (Confidence: 0.00), Translation: le
+Frame 151 - STR Text: swvork (Confidence: 0.90), PaddleOCR Text: W (Confidence: 0.73), Translation: swvork
+Frame 181 - STR Text: uswendk (Confidence: 0.21), PaddleOCR Text: AYHY (Confidence: 0.78), Translation: AYHY
+Frame 211 - STR Text: vewyork (Confidence: 0.99), PaddleOCR Text: EWYORK (Confidence: 0.99), Translation: New York
+Frame 241 - STR Text: lewyork (Confidence: 0.72), PaddleOCR Text: EWYORK (Confidence: 0.96), Translation: New York
+Frame 271 - STR Text: vewyork (Confidence: 0.98), PaddleOCR Text: EWYORK (Confidence: 0.99), Translation: New York
+Frame 301 - STR Text: vewyork (Confidence: 0.90), PaddleOCR Text: EWYORK (Confidence: 0.99), Translation: New York
+Frame 331 - STR Text: vewyork (Confidence: 0.53), PaddleOCR Text: EWYORK (Confidence: 0.98), Translation: New York
+Frame 361 - STR Text: lewyrk (Confidence: 0.86), PaddleOCR Text: EWYORK (Confidence: 0.99), Translation: New York
+Frame 391 - STR Text: wyork (Confidence: 1.00), PaddleOCR Text: WYORK (Confidence: 0.99), Translation: ouvrage
+Frame 421 - STR Text: vewyork (Confidence: 0.99), PaddleOCR Text: EWYORK (Confidence: 0.99), Translation: New York
+Frame 451 - STR Text: vewyof (Confidence: 0.44), PaddleOCR Text: EWYO (Confidence: 0.96), Translation: EWYO
+Frame 481 - STR Text: vewyor (Confidence: 1.00), PaddleOCR Text: EWYOR (Confidence: 0.99), Translation: vewyor
+Frame 511 - STR Text: vewwoh (Confidence: 0.64), PaddleOCR Text: VEWYOR (Confidence: 0.94), Translation: VEWYOR
+Frame 541 - STR Text: ewyork (Confidence: 0.37), PaddleOCR Text:  (Confidence: 0.00), Translation: Wassim
+Frame 571 - STR Text: wyork (Confidence: 1.00), PaddleOCR Text: WYORK (Confidence: 0.99), Translation: ouvrage
+Frame 601 - STR Text: wyork (Confidence: 1.00), PaddleOCR Text: WYORK (Confidence: 0.99), Translation: ouvrage
+Frame 631 - STR Text: yewyork (Confidence: 0.93), PaddleOCR Text: EWYORK (Confidence: 0.98), Translation: New York
+Frame 661 - STR Text: york (Confidence: 1.00), PaddleOCR Text: YORK (Confidence: 0.99), Translation: New York
+Frame 1 - STR Text: vory (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: Voleurs
+Frame 91 - STR Text: tory (Confidence: 0.39), PaddleOCR Text: 1AK (Confidence: 0.59), Translation: 1AK
+Frame 241 - STR Text: newyirk (Confidence: 0.11), PaddleOCR Text: V (Confidence: 0.59), Translation: V
+Frame 421 - STR Text: neinvirk (Confidence: 0.59), PaddleOCR Text:  (Confidence: 0.00), Translation: invalid
+Frame 451 - STR Text: newyirk (Confidence: 0.47), PaddleOCR Text: NEW YIRK (Confidence: 0.88), Translation: New York
+Frame 481 - STR Text: sparte (Confidence: 0.34), PaddleOCR Text:  (Confidence: 0.00), Translation: NEW yiprk c
+Frame 511 - STR Text: s (Confidence: 0.98), PaddleOCR Text:  (Confidence: 0.00), Translation: I'm ready when you are.
+Frame 1 - STR Text: sports (Confidence: 0.99), PaddleOCR Text:  (Confidence: 0.00), Translation: sports
